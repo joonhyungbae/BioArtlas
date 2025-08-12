@@ -9,7 +9,7 @@ This repository provides the public dataset for the BioArtlas project.
 - Goal: Structure the multi‑dimensional complexity of bioart works as data
 - Dataset: `BioArtlas.csv` (per‑work metadata)
 - Live visualization: [bioartlas.com](https://www.bioartlas.com)
-- Contact: jh.bae[at]kaist.ac.kr
+- Contact: jh.bae@kaist.ac.kr
 
 ## Dataset
 
@@ -72,7 +72,7 @@ Explore interactive clustering and 2D projections built from this dataset at: [b
 - Data: BioArtlas Research‑Only Data License (Noncommercial). See `LICENSE` for details.
 - Code: MIT License (to be added separately if/when code is included)
 
-Commercial use, internal commercial research, and integration into paid services/products/models are not permitted under this license. For commercial licensing, please contact: jh.bae[at]kaist.ac.kr.
+Commercial use, internal commercial research, and integration into paid services/products/models are not permitted under this license. For commercial licensing, please contact: jh.bae@kaist.ac.kr.
 
 Proper attribution and preserving the original context are encouraged.
 
@@ -84,4 +84,4 @@ BioArtlas dataset (Research‑Only Data License, Noncommercial). © 2025 Joonhyu
 
 ## Contact
 
-For questions or collaboration, please contact: jh.bae[at]kaist.ac.kr
+For questions or collaboration, please contact: jh.bae@kaist.ac.kr
