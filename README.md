@@ -72,9 +72,13 @@ Explore interactive clustering and 2D projections built from this dataset at: [b
 - Data: BioArtlas Research‑Only Data License (Noncommercial). See `LICENSE` for details.
 - Code: MIT License (to be added separately if/when code is included)
 
-Commercial use, 내부 상업 연구, 유료 서비스/제품/모델 통합 등은 허용되지 않습니다. 상업적 사용이 필요한 경우: jh.bae[at]kaist.ac.kr 로 문의해주세요.
+Commercial use, internal commercial research, and integration into paid services/products/models are not permitted under this license. For commercial licensing, please contact: jh.bae[at]kaist.ac.kr.
 
-적절한 출처 표기와 원문 맥락 보존을 권장합니다.
+Proper attribution and preserving the original context are encouraged.
+
+### Recommended attribution
+
+BioArtlas dataset (Research‑Only Data License, Noncommercial). © 2025 Joonhyung Bae. Project: https://www.bioartlas.com
 
 ---
 
