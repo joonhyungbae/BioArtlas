@@ -1,0 +1,45 @@
+BioArtlas Research‑Only Data License (Noncommercial) v1.0
+
+1. Scope and Subject Matter
+This license applies only to the dataset files in this repository (e.g., `BioArtlas.csv`) and accompanying dataset documentation (collectively, the "Dataset"). It does not apply to source code that may be added to this repository in the future; such code will be licensed separately (e.g., MIT).
+
+2. Definitions
+- "Noncommercial" means not primarily intended for or directed toward commercial advantage or monetary compensation.
+- "Research" means systematic investigation to establish facts or principles, including academic and non-profit research, and scholarly publication.
+- "Educational Use" means use for classroom teaching, student projects, and academic training.
+- "Substantial Portion" means any portion of the Dataset or derivative datasets that could serve as a substitute for the Dataset or that represents more than an insubstantial amount of its contents.
+
+3. Grant of Rights (Research/Education Only)
+Subject to the terms and conditions herein, Licensor grants you a worldwide, royalty‑free, non‑exclusive license to, solely for Noncommercial Research and Educational Use:
+  (a) use, copy, and analyze the Dataset;
+  (b) create derivative datasets and transformations;
+  (c) train, evaluate, and benchmark models and systems using the Dataset or derivative datasets;
+  (d) distribute research artifacts (e.g., papers, figures, non‑commercial demo code) that reference or embed insubstantial portions of the Dataset; and
+  (e) redistribute the Dataset or Substantial Portions only to other recipients under this same license, provided Section 5 is followed.
+
+4. Attribution
+When you use the Dataset or derivative datasets in any public output, you must provide appropriate credit to "BioArtlas" and the Licensor, include a link to the project site (`https://www.bioartlas.com`) and this license, and indicate if changes were made.
+
+5. Redistribution Conditions
+If you redistribute the Dataset or any Substantial Portion, you must: (i) include a copy of this license; (ii) ensure recipients accept and are bound by this license before access; and (iii) not impose additional terms that restrict uses permitted by this license.
+
+6. Prohibited Uses
+The following are strictly prohibited without a separate commercial license: (a) any Commercial Use; (b) use of the Dataset or derivative datasets to develop, operate, or improve paid products or services; (c) internal research by for‑profit entities when primarily intended for commercial advantage; (d) training models whose weights or outputs are distributed, licensed, or integrated for Commercial Use.
+
+7. Publication and Sharing of Results
+You may publish research results, benchmarks, and analyses that were produced using the Dataset for Noncommercial purposes, including releasing trained model weights and evaluation code, provided such releases are clearly marked "for research/education only" and distributed under terms that are at least as protective as this license.
+
+8. No Warranties; Limitation of Liability
+THE DATASET IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE DATASET, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+9. Termination
+This license terminates automatically if you breach any term herein. Upon termination, you must cease use and distribution and destroy copies in your possession. Licensor may, at its discretion, offer reinstatement upon cure of the breach.
+
+10. Commercial Licensing and Contact
+For Commercial Use or other uses outside this license, contact: jh.bae[at]kaist.ac.kr.
+
+11. Governing Law
+No specific governing law is designated. If required by your institution, apply your local governing‑law and venue clauses in any ancillary agreement while preserving these substantive license terms.
+
+Copyright © 2025 Joonhyung Bae. All rights reserved.
+

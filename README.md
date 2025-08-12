@@ -69,10 +69,12 @@ Explore interactive clustering and 2D projections built from this dataset at: [b
 
 ## License
 
-- Code: MIT License (to be added in `LICENSE`)
-- Data: CC BY 4.0 recommended (final data license text to be added)
+- Data: BioArtlas Research‑Only Data License (Noncommercial). See `LICENSE` for details.
+- Code: MIT License (to be added separately if/when code is included)
 
-I encourage proper attribution and preserving the original context when using the dataset in downstream work.
+Commercial use, 내부 상업 연구, 유료 서비스/제품/모델 통합 등은 허용되지 않습니다. 상업적 사용이 필요한 경우: jh.bae[at]kaist.ac.kr 로 문의해주세요.
+
+적절한 출처 표기와 원문 맥락 보존을 권장합니다.
 
 ---
 
