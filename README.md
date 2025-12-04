@@ -119,8 +119,8 @@ for c in multi_cols:
 Explore interactive clustering and 2D projections at: **[bioartlas.com](https://www.bioartlas.com)**
 
 Features:
-- **8 Clusters** of bioart works
-- **79 Artworks** from various artists
+- **15 Clusters** of bioart works
+- **81 Artworks** from various artists
 - **33 Artists** spanning from 1970s to 2023
 - UMAP-based dimensionality reduction
 - Interactive filtering by artist, cluster, and year range
