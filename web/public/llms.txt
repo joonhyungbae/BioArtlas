@@ -1,0 +1,55 @@
+# BioArtlas
+
+> Computational Clustering of Multi-Dimensional Complexity in Bioart
+
+## Overview
+
+BioArtlas is a computational framework for analyzing bioart—artworks that use living organisms, biological processes, and life science. The project analyzes 81 significant bioart works across 13 analytical dimensions using machine learning techniques.
+
+## Key Information
+
+- **Author**: Joonhyung Bae
+- **Affiliation**: Graduate School of Culture Technology, KAIST
+- **Conference**: NeurIPS 2025 Creative AI Track
+- **Website**: https://joonhyungbae.github.io/BioArtlas/
+- **Interactive Visualization**: https://www.bioartlas.com
+
+## Research Summary
+
+### Problem
+Traditional taxonomic frameworks are insufficient for capturing the multidimensional complexity of bioart, as works simultaneously function as aesthetic objects, scientific instruments, ethical provocations, and political statements.
+
+### Solution
+BioArtlas provides an axis-aware computational representation that preserves semantic distinctions while enabling cross-dimensional comparison through systematic evaluation of 800+ representation–space–algorithm combinations.
+
+### Dataset
+- **81 bioart works** from 1930s to 2020s
+- **13 analytical dimensions**: materiality, methodology, actor relations, ethical approaches, aesthetic strategies, epistemic functions, philosophical stances, social contexts, audience engagement, temporal scales, spatial scales, power dynamics, documentation practices
+- **Notable artists included**: Eduardo Kac, Stelarc, Orlan, Critical Art Ensemble, Symbiotica, Heather Dewey-Hagborg, and more
+
+### Technical Results
+- **Optimal Configuration**: Agglomerative clustering (k=15) on 4D UMAP
+- **Silhouette Coefficient**: 0.664 ± 0.008
+- **Trustworthiness/Continuity**: ≈0.81
+
+### Key Findings
+1. **Artist-specific methodological cohesion**: Artists develop consistent approaches across multiple works
+2. **Technique-based segmentation**: Works cluster by biological techniques (transgenic, tissue engineering, etc.)
+3. **Temporal artistic evolution**: Observable shifts in bioart practices over decades
+4. **Trans-temporal conceptual affinities**: Thematic connections across different time periods
+
+## Citation
+
+```bibtex
+@inproceedings{bae2025bioartlas,
+  title={BioArtlas: Computational Clustering of Multi-Dimensional Complexity in Bioart},
+  author={Bae, Joonhyung},
+  booktitle={NeurIPS 2025 Creative AI Track},
+  year={2025}
+}
+```
+
+## Contact
+
+For more information, visit the project website or access the full paper and dataset.
+

@@ -1,0 +1,225 @@
+# BioArtlas: Complete Documentation for AI Systems
+
+## Executive Summary
+
+BioArtlas is a computational research project that applies machine learning clustering techniques to analyze and categorize bioart—a contemporary art movement that incorporates living organisms, biological processes, and life science methodologies. This project was presented at NeurIPS 2025 Creative AI Track.
+
+---
+
+## 1. What is Bioart?
+
+Bioart represents a convergence of:
+- **Artistic practice**: Creative expression and aesthetic exploration
+- **Biological science**: Use of living organisms, DNA, cells, tissues
+- **Technological innovation**: Biotechnology, genetic engineering, synthetic biology
+
+### Examples of Bioart Techniques:
+- Transgenic organisms (genetically modified life forms as art)
+- Tissue engineering and cell cultivation
+- Biosemiotic inquiry (studying biological signs and communication)
+- Microbial art
+- DNA-based artworks
+- Ecological interventions
+
+---
+
+## 2. The BioArtlas Dataset
+
+### Scope
+- **81 significant bioart works** spanning from the 1930s to 2020s
+- Curated selection representing diverse approaches, techniques, and conceptual frameworks
+
+### 13 Analytical Dimensions
+
+Each artwork is analyzed across these dimensions:
+
+1. **Materiality**: Physical and biological materials used
+2. **Methodology**: Technical and artistic processes employed
+3. **Actor Relations**: Relationships between human and non-human agents
+4. **Ethical Approaches**: How works engage with bioethical questions
+5. **Aesthetic Strategies**: Visual, sensory, and experiential qualities
+6. **Epistemic Functions**: Knowledge production and questioning
+7. **Philosophical Stances**: Underlying philosophical frameworks
+8. **Social Contexts**: Engagement with social and political issues
+9. **Audience Engagement**: How viewers interact with works
+10. **Temporal Scales**: Time dimensions of the work (instantaneous to evolutionary)
+11. **Spatial Scales**: Physical scale (molecular to global)
+12. **Power Dynamics**: Relationships of power and control
+13. **Documentation Practices**: How works are recorded and preserved
+
+### Notable Artists in the Dataset
+- Eduardo Kac (GFP Bunny, Genesis)
+- Stelarc (Ear on Arm, Extra Ear)
+- Orlan (Carnal Art series)
+- Critical Art Ensemble (tactical media, biotech critique)
+- Symbiotica (tissue culture and art)
+- Heather Dewey-Hagborg (Stranger Visions, DNA portraits)
+- Joe Davis (pioneering bioartist)
+- Suzanne Anker (Gene Genies, visual genomics)
+- Natalie Jeremijenko (environmental art)
+- And many more...
+
+---
+
+## 3. Methodology
+
+### Computational Pipeline
+
+1. **Data Encoding**: Each artwork encoded as multi-dimensional vector representing all 13 dimensions
+2. **Axis-Aware Representation**: Preserves semantic distinctions between dimensions
+3. **Dimensionality Reduction**: UMAP (Uniform Manifold Approximation and Projection)
+4. **Clustering**: Multiple algorithms tested (K-means, Agglomerative, DBSCAN, etc.)
+5. **Evaluation**: Systematic testing of 800+ combinations
+
+### Optimization Process
+
+Tested combinations of:
+- Multiple representation schemes
+- Various dimensionality reduction techniques
+- Different clustering algorithms
+- Range of hyperparameters
+
+### Optimal Configuration
+
+- **Algorithm**: Agglomerative Clustering
+- **Number of Clusters**: k=15
+- **Embedding**: 4-dimensional UMAP
+- **Silhouette Coefficient**: 0.664 ± 0.008
+- **Trustworthiness**: ≈0.81
+- **Continuity**: ≈0.81
+
+---
+
+## 4. Key Findings
+
+### Finding 1: Artist-Specific Methodological Cohesion
+Individual artists tend to develop consistent methodological approaches that persist across multiple works. Works by the same artist often cluster together, suggesting distinctive artistic "signatures" in the multi-dimensional space.
+
+### Finding 2: Technique-Based Segmentation
+Bioart works cluster significantly by their underlying biological techniques:
+- Transgenic art cluster
+- Tissue engineering cluster
+- Microbial art cluster
+- DNA/genomic art cluster
+- Ecological intervention cluster
+
+### Finding 3: Temporal Artistic Evolution
+Observable shifts in bioart practices over time:
+- 1990s: Focus on transgenic and genetic art
+- 2000s: Rise of tissue culture and embodiment
+- 2010s: Data-driven and computational approaches
+- 2020s: Ecological and climate-focused works
+
+### Finding 4: Trans-Temporal Conceptual Affinities
+Despite temporal distance, works share thematic connections:
+- Early conceptual pieces connect with contemporary bio-critical works
+- Recurring themes: body modification, species boundaries, technological sublime
+- Persistent ethical questions across decades
+
+---
+
+## 5. Applications and Significance
+
+### For Art Historians and Critics
+- New methodology for analyzing complex contemporary art
+- Objective framework for comparison across diverse works
+- Discovery of non-obvious connections and influences
+
+### For Curators
+- Data-driven exhibition planning
+- Identification of thematic groupings
+- Understanding gaps and opportunities in collections
+
+### For Artists
+- Positioning within the broader bioart landscape
+- Identification of under-explored territories
+- Understanding of methodological traditions
+
+### For AI and Machine Learning
+- Novel application of clustering to cultural analysis
+- Demonstrates computational approaches to qualitative domains
+- Framework transferable to other art movements
+
+---
+
+## 6. Technical Details
+
+### UMAP Parameters
+- n_neighbors: optimized
+- min_dist: optimized  
+- n_components: 4
+- metric: euclidean
+
+### Agglomerative Clustering Parameters
+- n_clusters: 15
+- linkage: ward
+- affinity: euclidean
+
+### Evaluation Metrics
+- Silhouette Coefficient: measures cluster cohesion and separation
+- Trustworthiness: preserves local neighborhood structure
+- Continuity: maintains distant point relationships
+
+---
+
+## 7. Resources
+
+### Online Resources
+- **Project Website**: https://joonhyungbae.github.io/BioArtlas/
+- **Interactive Visualization**: https://www.bioartlas.com
+- **Dataset**: Available upon request
+
+### Citation
+
+```bibtex
+@inproceedings{bae2025bioartlas,
+  title={BioArtlas: Computational Clustering of Multi-Dimensional Complexity in Bioart},
+  author={Bae, Joonhyung},
+  booktitle={NeurIPS 2025 Creative AI Track},
+  year={2025},
+  organization={Neural Information Processing Systems Foundation}
+}
+```
+
+### Author Information
+- **Name**: Joonhyung Bae
+- **Affiliation**: Graduate School of Culture Technology, KAIST
+- **Institution**: Korea Advanced Institute of Science and Technology (KAIST)
+- **Location**: Daejeon, South Korea
+
+---
+
+## 8. Glossary
+
+**Bioart**: Art that uses living tissues, bacteria, and other life processes as medium
+
+**UMAP**: Uniform Manifold Approximation and Projection - a dimensionality reduction technique
+
+**Silhouette Coefficient**: A measure of how similar an object is to its own cluster compared to other clusters
+
+**Transgenic Art**: Art involving organisms with genes from other species
+
+**Tissue Culture Art**: Art created using cultured cells and tissues outside the body
+
+**Biosemiotics**: The study of signs and communication in living systems
+
+---
+
+## 9. Frequently Asked Questions
+
+**Q: What makes BioArtlas different from traditional art classification?**
+A: BioArtlas uses computational methods to analyze artworks across 13 dimensions simultaneously, revealing patterns invisible to traditional categorical approaches.
+
+**Q: Can this methodology be applied to other art movements?**
+A: Yes, the framework is generalizable. The 13 dimensions would need adaptation, but the computational pipeline is transferable.
+
+**Q: How were the 81 artworks selected?**
+A: Works were curated based on historical significance, diversity of approaches, and availability of documentation for analysis.
+
+**Q: What is the interactive visualization?**
+A: An online tool at bioartlas.com allowing users to explore the clustered artworks, view relationships, and filter by dimensions.
+
+---
+
+*This document is optimized for AI language models performing research and information retrieval tasks.*
+

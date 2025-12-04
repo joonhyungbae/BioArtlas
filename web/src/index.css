@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Academic Color Palette */
+    --background: 30 6% 98%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --primary: 222 47% 11%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 30 6% 97%;
+    --secondary-foreground: 222 47% 11%;
+
+    --muted: 30 6% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 174 84% 29%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 30 6% 90%;
+    --input: 30 6% 90%;
+    --ring: 174 84% 29%;
+
+    --radius: 0.5rem;
+
+    /* Custom Academic Tokens */
+    --navy-900: 222 47% 11%;
+    --slate-600: 215 19% 35%;
+    --slate-500: 215 16% 47%;
+    --teal-600: 174 84% 29%;
+    --stone-50: 30 6% 98%;
+    --stone-100: 30 6% 96%;
+    --stone-200: 30 6% 90%;
+
+    /* Typography */
+    --font-serif: 'Crimson Pro', Georgia, serif;
+    --font-sans: 'Inter', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+
+    /* Spacing */
+    --section-spacing: 5rem;
+    --content-max: 1200px;
+  }
+
+  @media (min-width: 768px) {
+    :root {
+      --section-spacing: 7.5rem;
+    }
+  }
+
+  .dark {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+    --card: 222 47% 8%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 47% 8%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 174 84% 40%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 174 84% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "liga" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .section-label {
+    @apply text-xs font-sans font-medium uppercase tracking-[0.15em] text-muted-foreground mb-6;
+  }
+
+  .academic-link {
+    @apply text-accent no-underline transition-all duration-300 ease-out;
+  }
+
+  .academic-link:hover {
+    @apply underline underline-offset-4;
+  }
+
+  .metric-number {
+    @apply font-serif text-5xl font-medium text-foreground tracking-tight;
+  }
+
+  .metric-label {
+    @apply font-sans text-xs uppercase tracking-[0.12em] text-muted-foreground mt-2;
+  }
+
+  .code-block {
+    @apply font-mono text-sm bg-secondary border border-border rounded-lg p-6 overflow-x-auto;
+  }
+}
+
+@layer utilities {
+  .content-width {
+    @apply max-w-[1200px] mx-auto px-4 md:px-6;
+  }
+
+  .py-section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  @media (min-width: 768px) {
+    .py-section {
+      padding-top: var(--section-spacing);
+      padding-bottom: var(--section-spacing);
+    }
+  }
+
+  .pb-section {
+    padding-bottom: 4rem;
+  }
+
+  @media (min-width: 768px) {
+    .pb-section {
+      padding-bottom: var(--section-spacing);
+    }
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
