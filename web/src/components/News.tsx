@@ -1,7 +1,21 @@
-import { Database, Users, Presentation } from "lucide-react";
+import { Database, Users, Presentation, Code, NotebookPen } from "lucide-react";
 
 const News = () => {
   const newsItems = [
+    {
+      date: "Coming Soon",
+      icon: Code,
+      title: "Code Release",
+      description: "Full source code for the clustering pipeline and analysis will be released.",
+      upcoming: true,
+    },
+    {
+      date: "Coming Soon",
+      icon: NotebookPen,
+      title: "Tutorial Notebook",
+      description: "Step-by-step Jupyter notebook tutorial for reproducing our analysis.",
+      upcoming: true,
+    },
     {
       date: "December 4, 2025",
       icon: Presentation,
@@ -31,13 +45,19 @@ const News = () => {
           {newsItems.map((item, index) => (
             <div 
               key={index}
-              className="flex items-start gap-3 md:gap-4 p-4 md:p-6 bg-card border border-border rounded-lg"
+              className={`flex items-start gap-3 md:gap-4 p-4 md:p-6 rounded-lg
+                ${item.upcoming 
+                  ? "bg-accent/5 border border-dashed border-accent/30" 
+                  : "bg-card border border-border"
+                }`}
             >
-              <div className="flex-shrink-0 w-8 h-8 md:w-9 md:h-9 rounded-full bg-accent/10 flex items-center justify-center">
-                <item.icon className="w-3.5 h-3.5 md:w-4 md:h-4 text-accent" />
+              <div className={`flex-shrink-0 w-8 h-8 md:w-9 md:h-9 rounded-full flex items-center justify-center
+                ${item.upcoming ? "bg-accent/20" : "bg-accent/10"}`}>
+                <item.icon className={`w-3.5 h-3.5 md:w-4 md:h-4 ${item.upcoming ? "text-accent" : "text-accent"}`} />
               </div>
               <div className="flex-1 min-w-0">
-                <span className="font-mono text-[10px] md:text-xs text-muted-foreground">
+                <span className={`font-mono text-[10px] md:text-xs 
+                  ${item.upcoming ? "text-accent font-medium" : "text-muted-foreground"}`}>
                   {item.date}
                 </span>
                 <h3 className="font-sans text-sm md:text-base font-medium text-foreground mt-0.5 md:mt-1">

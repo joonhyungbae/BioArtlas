@@ -26,17 +26,21 @@ This is the official repository for **BioArtlas**, a computational framework for
 
 | Date | Event |
 |------|-------|
+| **Coming Soon** | 💻 Code release — Full source code for clustering pipeline |
+| **Coming Soon** | 📓 Tutorial notebook — Step-by-step Jupyter notebook |
 | **Dec 4, 2025** | 🎤 Presented BioArtlas at NeurIPS 2025 Creative AI Track |
 | **Aug 31, 2025** | 🤝 Expanded research collaboration with curators, artists, and biotechnologists |
 | **Aug 12, 2025** | 📊 Released complete dataset on GitHub (81 works × 13 dimensions) |
 
 ## 🔗 Links
 
-| Resource | URL |
-|----------|-----|
-| 📄 Project Page | https://joonhyungbae.github.io/BioArtlas/ |
-| 🌐 Interactive Visualization | https://www.bioartlas.com |
-| 📊 Dataset | [`BioArtlas.csv`](BioArtlas.csv) |
+| Resource | URL | Status |
+|----------|-----|--------|
+| 📄 Project Page | https://joonhyungbae.github.io/BioArtlas/ | ✅ Live |
+| 🌐 Interactive Visualization | https://www.bioartlas.com | ✅ Live |
+| 📊 Dataset | [`BioArtlas.csv`](BioArtlas.csv) | ✅ Available |
+| 💻 Code | `code/` | 🔜 Coming Soon |
+| 📓 Tutorial | `notebooks/tutorial.ipynb` | 🔜 Coming Soon |
 
 ## Abstract
 
@@ -113,6 +117,23 @@ for c in multi_cols:
             lambda x: [s.strip() for s in x.split(',')] if isinstance(x, str) and len(x) > 0 else []
         )
 ```
+
+## 🔜 Coming Soon
+
+### 💻 Code
+The complete source code for the BioArtlas clustering pipeline will be released, including:
+- Data preprocessing and encoding
+- UMAP dimensionality reduction
+- Agglomerative clustering implementation
+- Evaluation metrics computation
+- Visualization generation
+
+### 📓 Tutorial Notebook
+A step-by-step Jupyter notebook will be provided to help you:
+- Load and explore the BioArtlas dataset
+- Reproduce our clustering analysis
+- Customize parameters for your own research
+- Generate interactive visualizations
 
 ## Interactive Visualization
 
