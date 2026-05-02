@@ -49,10 +49,16 @@ The final curated export lives under [`artifacts/final/`](artifacts/final).
 The standard web payload is written to
 [`../data/processed/bioart_clustering_2d.json`](../data/processed/bioart_clustering_2d.json).
 
-If you want to write directly into a local checkout of the separate
-`BioArtlas_web` repository, set
-`BIOARTLAS_WEB_JSON_OUT=/path/to/BioArtlas_web/public/bioart_clustering_2d.json`
-before running `08_build_web_json.py`.
+If you keep the separate interactive web repo as a local ignored directory at
+`../BioArtlas_web/`, you can refresh its payload directly with:
+
+```bash
+BIOARTLAS_WEB_JSON_OUT=../BioArtlas_web/public/bioart_clustering_2d.json \
+python 08_build_web_json.py
+```
+
+Without that override, `08_build_web_json.py` writes the tracked export to
+`../data/processed/bioart_clustering_2d.json`.
 
 ## Verify The Paper
 

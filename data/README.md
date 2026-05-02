@@ -34,5 +34,8 @@
 - The web export path reads `processed/bioartlas_axes_bilingual.csv` and
   `metadata/artist_labels.csv`.
 - The default web JSON export is `processed/bioart_clustering_2d.json`.
+- If you keep a local ignored `../BioArtlas_web/` checkout, you can mirror that
+  export into `../BioArtlas_web/public/bioart_clustering_2d.json` with
+  `BIOARTLAS_WEB_JSON_OUT`.
 - `models/` and `web_migration/` are kept for local or legacy use and are not
   part of the compact active repo surface.

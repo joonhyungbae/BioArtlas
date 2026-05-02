@@ -17,6 +17,11 @@ maintained reproduction pipeline, and the static project page.
 - [`data/`](data/): canonical dataset, metadata, raw tables, and processed tables
 - [`projectPage/`](projectPage/): landing/project page frontend for the public site
 
+Optional local companion checkout:
+
+- `BioArtlas_web/`: ignored local checkout of the separate interactive web repo
+  kept beside `code/`, `data/`, and `projectPage/` when needed
+
 ## Dataset
 
 The canonical public dataset is [`data/dataset/BioArtlas.csv`](data/dataset/BioArtlas.csv).
@@ -59,16 +64,23 @@ python verify_paper.py --seeds 50
 with this repository.
 
 The interactive visualization lives in a separate `BioArtlas_web` repository.
-This repo only prepares the export payload for it. The standard JSON is written
-to [`data/processed/bioart_clustering_2d.json`](data/processed/bioart_clustering_2d.json),
-which can be refreshed from the reproduction outputs with:
+In local development you can place that separate repo at `./BioArtlas_web/`;
+this repository ignores it on purpose. This repo only prepares the export
+payload for the interactive app.
+
+The standard tracked JSON is written to
+[`data/processed/bioart_clustering_2d.json`](data/processed/bioart_clustering_2d.json):
 
 ```bash
 python code/08_build_web_json.py
 ```
 
-If you want to write directly into a local checkout of the separate web repo,
-set `BIOARTLAS_WEB_JSON_OUT=/path/to/BioArtlas_web/public/bioart_clustering_2d.json`.
+If you want to refresh the colocated local web checkout directly, use:
+
+```bash
+BIOARTLAS_WEB_JSON_OUT=BioArtlas_web/public/bioart_clustering_2d.json \
+python code/08_build_web_json.py
+```
 
 ## Citation
 

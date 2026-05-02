@@ -13,6 +13,7 @@ build_web_json.py
 출력:
  - 기본값: ../data/processed/bioart_clustering_2d.json
  - 선택적 override: $BIOARTLAS_WEB_JSON_OUT
+ - 로컬 공존 예시: BioArtlas_web/public/bioart_clustering_2d.json
 """
 
 from __future__ import annotations
