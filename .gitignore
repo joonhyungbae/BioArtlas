@@ -1,0 +1,35 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local env files
+.env
+.env.*
+
+# Web build/install outputs
+node_modules/
+dist/
+
+# Paper build outputs
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Large external/model assets and legacy migration snapshots
+data/models/
+data/web_migration/
+
+# Generated artifacts: keep curated final exports visible
+code/artifacts/*
+!code/artifacts/final/
+!code/artifacts/final/**
+
+# Temporary smoke outputs
+/tmp/

@@ -1,0 +1,6 @@
+row,full_label_raw,ko,en,rule,note
+166,데이터소리화,데이터 소리화,Data voice,데이터소리화|데이터 소리화 !~ \bsonification\b,Sonification 권장
+229,관객(해석의 주체),관객,gallery,^관객$ !~ \baudience\b,관객은 audience
+232,관객(상호작용),관객,gallery,^관객$ !~ \baudience\b,관객은 audience
+234,관객(신체적/기억적 반응의 주체),관객,gallery,^관객$ !~ \baudience\b,관객은 audience
+598,탈멸종,탈멸종,Endangered species,탈멸종 !~ \bde[- ]?extinction\b,탈멸종은 de-extinction

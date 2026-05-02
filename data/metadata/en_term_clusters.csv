@@ -1,0 +1,128 @@
+term,cluster,freq,canonical
+sound,0,2,live video
+performance,0,3,live video
+unpredictability,0,2,live video
+provocative,0,2,live video
+conceptual,0,2,live video
+critical,0,4,live video
+performative,0,2,live video
+auditory,0,3,live video
+multisensory,0,4,live video
+interactive,0,4,live video
+momentary,0,2,live video
+virtual,0,3,live video
+observational,0,3,live video
+discursive,0,2,live video
+contemplative,0,2,live video
+processual,0,2,live video
+online platform,0,2,live video
+narrative,0,3,live video
+live video,0,7,live video
+video,0,3,live video
+robotics,1,2,art gallery
+sculpture,1,2,art gallery
+3d printing,1,2,art gallery
+artist-led,1,3,art gallery
+artist,1,3,art gallery
+art gallery,1,4,art gallery
+gallery,1,3,art gallery
+biennale,1,2,art gallery
+workshop,1,2,art gallery
+diy kit provided,1,2,art gallery
+short-term exhibition,1,3,art gallery
+synthetic life forms,2,3,ecological assembly
+ecosystem,2,2,ecological assembly
+ecological assembly,2,3,ecological assembly
+autonomous biological processes,2,3,ecological assembly
+intention and control,2,2,ecological assembly
+instrumentalization of life,2,2,ecological assembly
+ecological,2,2,ecological assembly
+evolutionary,2,2,ecological assembly
+imitation,2,2,ecological assembly
+biosignals,3,2,tissue culture
+tissue culture,3,4,tissue culture
+cyborg,3,2,tissue culture
+cell lines,3,2,tissue culture
+biological traces,3,4,tissue culture
+petri dish,3,2,tissue culture
+biopsy,3,2,tissue culture
+laboratory,3,3,tissue culture
+bio capital,3,2,tissue culture
+posthuman ethics,4,2,exposing power relations
+provocation and controversy,4,2,exposing power relations
+exposing power relations,4,3,exposing power relations
+ecocentrism,4,2,exposing power relations
+social criticism,4,2,exposing power relations
+institutional criticism,4,2,exposing power relations
+resource politics,4,2,exposing power relations
+ecofeminism,4,2,exposing power relations
+new materialism,4,2,exposing power relations
+biocentrism,4,2,exposing power relations
+posthumanism,4,2,exposing power relations
+transhumanism,4,2,exposing power relations
+criticism of anthropocentrism,4,2,exposing power relations
+criticism of speciesism,4,2,exposing power relations
+criticism of consumerism,4,2,exposing power relations
+criticism of technological determinism,4,2,exposing power relations
+queer theory,4,2,exposing power relations
+decolonialism,4,2,exposing power relations
+criticism of mind-body dualism,4,2,exposing power relations
+identity politics,4,2,exposing power relations
+dna base sequence,5,2,nan
+human body,5,5,nan
+mixture,5,8,nan
+protein,5,3,nan
+bacteria,5,2,nan
+hormone,5,3,nan
+dna,5,2,nan
+saliva,5,2,nan
+olfactory,5,3,nan
+molecule,5,2,nan
+nan,5,717,nan
+scent,5,3,nan
+urine,5,2,nan
+smell,5,2,nan
+data visualization,6,4,participatory
+speculative design,6,3,participatory
+ai design,6,2,participatory
+human-nonhuman collaboration,6,2,participatory
+audience intervention,6,2,participatory
+multi-actor network,6,3,participatory
+audience,6,3,participatory
+process-based,6,4,participatory
+relational aesthetics,6,2,participatory
+knowledge production,6,2,participatory
+citizen science projects,6,2,participatory
+interpretive engagement,6,3,participatory
+public places,6,3,participatory
+publication,6,3,participatory
+participatory,6,5,participatory
+commercialization,6,4,participatory
+gene editing,7,3,gene editing
+surgical modification,7,3,gene editing
+transformation,7,2,gene editing
+creation,7,2,gene editing
+change and growth,7,2,gene editing
+growth,7,2,gene editing
+future,7,2,gene editing
+data,8,6,data
+archiving,8,2,data
+data provision,8,2,data
+installation,8,3,data
+composite materials,9,3,material residue
+glass,9,2,material residue
+glass bottle,9,2,material residue
+textile,9,2,material residue
+architectural,9,2,material residue
+material residue,9,11,material residue
+silicone,9,2,material residue
+microorganism,10,3,animal
+plant,10,7,animal
+animal,10,8,animal
+cellular,10,2,animal
+macro,10,2,animal
+micro,10,3,animal
+individual unit,10,2,animal
+object,10,3,animal
+human being,10,2,animal
+cell,10,2,animal

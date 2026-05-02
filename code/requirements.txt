@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+umap-learn
+sentence-transformers
+torch
+tqdm
+matplotlib
+hdbscan
+pyyaml
+seaborn
+openpyxl

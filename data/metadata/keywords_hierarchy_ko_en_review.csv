@@ -1,0 +1,861 @@
+full_label_raw,base_label,base_label_en,modifiers_ko,modifiers_en,axis
+DNA 염기서열,DNA 염기서열,DNA base sequence,,,Materiality
+미생물(박테리아),미생물,microorganism,박테리아,bacteria,Materiality
+생체신호,생체신호,biosignals,,,Materiality
+데이터,데이터,data,,,Materiality
+미생물,미생물,microorganism,,,Materiality
+식물,식물,plant,,,Materiality
+유전적 다양성,유전적 다양성,genetic diversity,,,Materiality
+식물(다양한종),식물,plant,다양한종,Various species,Materiality
+인간신체,인간신체,human body,,,Materiality
+혼합물질(사이보그),혼합물질,Mixture,사이보그,cyborg,Materiality
+혼합물질,혼합물질,Mixture,,,Materiality
+조직배양,조직배양,Tissue culture,,,Materiality
+반-생명,반-생명,anti-life,,,Materiality
+사이보그,사이보그,cyborg,,,Materiality
+동물(토끼),동물,animal,토끼,rabbit,Materiality
+형질 전환 유전자,형질 전환 유전자,transgenic genes,,,Materiality
+조직배양(돼지 줄기세포),조직배양,Tissue culture,돼지 줄기세포,pig stem cells,Materiality
+세포주,세포주,cell lines,,,Materiality
+동물(말혈액/혈장),동물,animal,"말혈액, 혈장","Horse blood, plasma",Materiality
+생명-기계 하이브리드,생명-기계 하이브리드,Life-machine hybrid,,,Materiality
+물질대사적(모방)생명체,물질대사적 생명체,metabolic organisms,모방,imitation,Materiality
+합성 생명체(모방),합성 생명체,synthetic life forms,모방,imitation,Materiality
+생물학적 고분자(젤라틴),생물학적 고분자,biological polymers,젤라틴,gelatin,Materiality
+데이터(에너지 소비량),데이터,data,에너지 소비량,Energy consumption,Materiality
+"환경(대기,수증기)",환경,environment,"대기, 수증기","atmosphere, water vapor",Materiality
+유전자(인간),유전자,gene,인간,human being,Materiality
+동물(돼지),동물,animal,돼지,pig,Materiality
+추출 DNA,추출 DNA,Extracted DNA,,,Materiality
+생물학적 흔적(침),생물학적 흔적,biological traces,침,saliva,Materiality
+복합물질(유물+DNA),복합물질,composite materials,"유물, DNA","relics, DNA",Materiality
+복합물질,복합물질,composite materials,,,Materiality
+단백질(호르몬),단백질,protein,호르몬,hormone,Materiality
+동물,동물,animal,,,Materiality
+단백질(호르몬/세로토닌),단백질,protein,"호르몬, 세로토닌","hormone, serotonin",Materiality
+생물학적 흔적(분뇨),생물학적 흔적,biological traces,분뇨,excretions,Materiality
+혈액,혈액,blood,,,Materiality
+합성 생명체,합성 생명체,synthetic life forms,,,Materiality
+"혼합물질(실리콘,모헤어)",혼합물질,Mixture,"실리콘, 모헤어","Silicone, mohair",Materiality
+동물(형질전환 물고기),동물,animal,형질전환 물고기,transgenic fish,Materiality
+혼합물질(음식),혼합물질,Mixture,음식,food,Materiality
+생물학적 흔적(내용상),생물학적 흔적,biological traces,,,Materiality
+생물학적 흔적,생물학적 흔적,biological traces,,,Materiality
+혼합물질(3D 프린트),혼합물질,Mixture,3D 프린트,3D printing,Materiality
+동물(나비),동물,animal,나비,butterfly,Materiality
+생체신호(뇌활동),생체신호,biosignals,뇌활동,brain activity,Materiality
+DNA 샘플,DNA 샘플,DNA sample,,,Materiality
+박테리아,박테리아,bacteria,,,Materiality
+동물(개미),동물,animal,개미,ant,Materiality
+데이터(향),데이터,data,향,incense,Materiality
+인공생명,인공생명,artificial life,,,Materiality
+데이터(DNA 염기서열),데이터,data,DNA 염기서열,DNA base sequence,Materiality
+혼합물질(향분자),혼합물질,Mixture,향분자,fragrance molecules,Materiality
+생태계,생태계,ecosystem,,,Materiality
+미생물(시아노박테리아),미생물,microorganism,시아노박테리아,cyanobacteria,Materiality
+혼합물질(유리),혼합물질,Mixture,유리,glass,Materiality
+혼합물질(합성모유),혼합물질,Mixture,합성모유,synthetic breast milk,Materiality
+데이터(생화학 정보),데이터,data,생화학 정보,Biochemical information,Materiality
+인간신체(소변),인간신체,human body,소변,piss,Materiality
+"복합물질(라드,뼈안료)",복합물질,composite materials,"라드, 뼈안료","lard, bone pigment",Materiality
+식물(양귀비),식물,plant,양귀비,poppy,Materiality
+식물(쪽),식물,plant,쪽,side,Materiality
+호르몬,호르몬,hormone,,,Materiality
+합성물질,합성물질,synthetic materials,,,Materiality
+추출 호르몬,추출 호르몬,Extracted hormones,,,Materiality
+동물(굴),동물,animal,굴,cave,Materiality
+식물(침향나무),식물,plant,침향나무,agarwood,Materiality
+인간의 향기 분자,인간의 향기 분자,human scent molecules,,,Materiality
+DNA,DNA,DNA,,,Materiality
+유전자 변형 식물,유전자 변형 식물,genetically modified plants,,,Materiality
+유리,유리,glass,,,Materiality
+액체배지,액체배지,liquid medium,,,Materiality
+타액,타액,saliva,,,Materiality
+인간 DNA,인간 DNA,human DNA,,,Materiality
+아카이 브용 종이,아카이브용 종이,Archival paper,,,Materiality
+유리병,유리병,glass bottle,,,Materiality
+예술가 자신의 세포(생검),예술가 자신의 세포,The artist's own cells,생검,biopsy,Materiality
+세포 배양액,세포 배양액,cell culture medium,,,Materiality
+배양된 근육 조직,배양된 근육 조직,cultured muscle tissue,,,Materiality
+비-인간 신경세포,비-인간 신경세포,non-human neurons,,,Materiality
+페트리 디쉬,페트리 디쉬,petri dish,,,Materiality
+로보틱스,로보틱스,Robotics,,,Materiality
+빛,빛,light,,,Materiality
+소리,소리,sound,,,Materiality
+공기중향기분자,공기중향기분자,Airborne fragrance molecules,,,Materiality
+비가 시적 화학 혼합물(작품철학),비가시적 화학 혼합물,invisible chemical mixture,작품철학,Philosophy of the work,Materiality
+상업용 제품(블리스텍스),상업용 제품,commercial products,블리스텍스,Blistex,Materiality
+"공업용화학물질(실리콘,RAL 색소)",공업용 화학물질,industrial chemicals,"실리콘, RAL 색소","Silicone, RAL pigment",Materiality
+PET 플라스틱병,PET 플라스틱병,PET plastic bottles,,,Materiality
+전자 폐기물,전자 폐기물,electronic waste,,,Materiality
+오염된물,오염된물,polluted water,,,Materiality
+광섬유,광섬유,optical fiber,,,Materiality
+이끼,이끼,moss,,,Materiality
+단백질,단백질,protein,,,Materiality
+균류,균류,fungi,,,Materiality
+복합 조직체,복합 조직체,complex organization,,,Materiality
+직물,직물,textile,,,Materiality
+조직배양(줄기세포),조직배양,Tissue culture,줄기세포,stem cells,Materiality
+합성 생명체(설계된 유기체),합성 생명체,synthetic life forms,설계된 유기체,designed organisms,Materiality
+조직배양(세포주),조직배양,Tissue culture,세포주,cell lines,Materiality
+유전자 편집,유전자 편집,gene editing,,,Methodology
+생물정보학,생물정보학,bioinformatics,,,Methodology
+바이오 센싱,바이오 센싱,biosensing,,,Methodology
+데이터 시각화,데이터 시각화,Data visualization,,,Methodology
+원격현존,원격현존,Telepresence,,,Methodology
+현미경 관찰,현미경 관찰,Microscopic observation,,,Methodology
+생태학적 조립,생태학적 조립,ecological assembly,,,Methodology
+인공선택,인공선택,artificial selection,,,Methodology
+로보틱스,로보틱스,Robotics,,,Methodology
+외과적 변형(비침습적 부착),외과적 변형,surgical modification,비침습적 부착,Non-invasive attachment,Methodology
+외과적 변형(침습적 삽입),외과적 변형,surgical modification,침습적 삽입,Invasive insertion,Methodology
+조직공학,조직공학,tissue engineering,,,Methodology
+세포배양,세포배양,cell culture,,,Methodology
+외과적 변형(침습적 이식),외과적 변형,surgical modification,침습적 이식,invasive transplantation,Methodology
+바이오 해킹,바이오 해킹,biohacking,,,Methodology
+바디 아트 퍼포먼스,바디 아트 퍼포먼스,Body art performance,,,Methodology
+형질전환,형질전환,Transformation,,,Methodology
+유전자 편집(형질전환),유전자 편집,gene editing,형질전환,Transformation,Methodology
+무균기술,무균기술,Aseptic technology,,,Methodology
+미트리다티즘,미트리다티즘,Mithridatism,,,Methodology
+신체변형,신체변형,body modification,,,Methodology
+종간 퍼포먼스,종간 퍼포먼스,Interspecies performance,,,Methodology
+기계공학,기계공학,mechanical engineering,,,Methodology
+화학공학,화학공학,chemical engineering,,,Methodology
+자기 조직화,자기 조직화,self-organization,,,Methodology
+무중력 시뮬레이션,무중력 시뮬레이션,Zero gravity simulation,,,Methodology
+사변적 디자인,사변적 디자인,Speculative design,,,Methodology
+레이저 프로젝션,레이저 프로젝션,laser projection,,,Methodology
+환경 데이터 분석,환경 데이터 분석,Environmental data analysis,,,Methodology
+바디아트(문신),바디아트,body art,문신,tattoo,Methodology
+미생물학,미생물학,microbiology,,,Methodology
+AI 설계,AI 설계,AI design,,,Methodology
+머신러닝,머신러닝,machine learning,,,Methodology
+화학적 변환,화학적 변환,chemical transformation,,,Methodology
+CRISPR-Cas9,CRISPR-Cas9,CRISPR-Cas9,,,Methodology
+세포분화유도,세포 분화 유도,Induction of cell differentiation,,,Methodology
+조각,조각,piece,,,Methodology
+요리,요리,cooking,,,Methodology
+독립출판,독립출판,Independent publishing,,,Methodology
+3D 프린팅,3D 프린팅,3D printing,,,Methodology
+미세수술,미세수술,microsurgery,,,Methodology
+전기영동,전기영동,electrophoresis,,,Methodology
+유전자 편집(예측),유전자 편집,gene editing,예측,prediction,Methodology
+바이오 컴퓨팅,바이오 컴퓨팅,biocomputing,,,Methodology
+AI 설계(유전 알고리즘),AI 설계,AI design,유전 알고리즘,genetic algorithm,Methodology
+생화학적 재현,생화학적 재현,Biochemical reproducibility,,,Methodology
+공공 워크숍,공공 워크숍,public workshops,,,Methodology
+생태학적 조립(퇴비화),생태학적 조립,ecological assembly,퇴비화,composting,Methodology
+크로마토그래피,크로마토그래피,chromatography,,,Methodology
+증류,증류,distillation,,,Methodology
+발효,발효,fermentation,,,Methodology
+기계적 조립,기계적 조립,mechanical assembly,,,Methodology
+퍼포먼스,퍼포먼스,performance,,,Methodology
+텍스타일 염색,텍스타일 염색,Textile dyeing,,,Methodology
+유리공예,유리공예,glass crafts,,,Methodology
+화학적 합성,화학적 합성,chemical synthesis,,,Methodology
+CT 스캔,CT 스캔,CT scan,,,Methodology
+후각 데이터 분석,후각 데이터 분석,Olfactory data analysis,,,Methodology
+합성화학,합성화학,synthetic chemistry,,,Methodology
+식물유전공학,식물유전공학,plant genetic engineering,,,Methodology
+DNA 추출및전체유전체증폭,DNA 추출 및 전체 유전체 증폭,DNA extraction and whole genome amplification,,,Methodology
+샷건시퀀싱,샷건 시퀀싱,Shotgun Sequencing,,,Methodology
+데이터시각화,데이터 시각화,Data visualization,,,Methodology
+생체조직검사,생체조직검사,biopsy,,,Methodology
+신경세포 배양,신경세포 배양,Neuron culture,,,Methodology
+광유전학적자극,광유전학적 자극,optogenetic stimulation,,,Methodology
+데이터소리화,데이터 소리화,Data voice,,,Methodology
+후각예술,후각예술,Olfactory art,,,Methodology
+정동적경험의 창조,정동적 경험의 창조,Creating emotional experiences,,,Methodology
+비-객체기반예술,비-객체 기반 예술,Non-object-based art,,,Methodology
+후각합성,후각합성,Olfactory synthesis,,,Methodology
+RAL 표준색상시스템을이용한색재현,RAL 표준 색상 시스템을 이용한 색 재현,Color reproduction using the RAL standard color system,,,Methodology
+대규모 액체 설치,대규모 액체 설치,Large-scale liquid installations,,,Methodology
+로봇제어시스템,로봇 제어 시스템,Robot control system,,,Methodology
+종간의 만남 연출,종간의 만남 연출,Interspecies encounter production,,,Methodology
+후각확산,후각확산,Olfactory diffusion,,,Methodology
+미생물 연료 전지,미생물 연료전지,microbial fuel cells,,,Methodology
+공생시스템구축,공생 시스템 구축,Building a symbiotic system,,,Methodology
+순환 수계 로보틱스,순환 수계 로보틱스,Circulating Water Robotics,,,Methodology
+에너지 하베스팅,에너지 하베스팅,Energy harvesting,,,Methodology
+생태학적조립,생태학적 조립,ecological assembly,,,Methodology
+자연 프로세스 제어,자연 프로세스 제어,Controlling natural processes,,,Methodology
+수동적 수집,수동적 수집,passive collection,,,Methodology
+분류,분류,classification,,,Methodology
+아카이빙,아카이빙,Archiving,,,Methodology
+생물-지질학적 변환,생물-지질학적 변환,bio-geological transformation,,,Methodology
+추출,추출,extraction,,,Methodology
+연금술적 과정,연금술적 과정,alchemical process,,,Methodology
+식물채광,식물채광,Phytomining,,,Methodology
+제련,제련,smelting,,,Methodology
+전통공예융합,전통 공예 융합,Fusion of traditional crafts,,,Methodology
+전통공예,전통공예,traditional crafts,,,Methodology
+생태학적 시뮬레이션,생태학적 시뮬레이션,ecological simulation,,,Methodology
+3D 바이오 프린팅,3D 바이오 프린팅,3D bioprinting,,,Methodology
+예술가 주도,예술가 주도,Artist-led,,,Actor Relationships & Configuration
+자율적 생물 과정,자율적 생물 과정,Autonomous biological processes,,,Actor Relationships & Configuration
+인간 중심적 창작,인간 중심적 창작,human-centered creation,,,Actor Relationships & Configuration
+종간공동창작,종간 공동 창작,Interspecies co-creation,,,Actor Relationships & Configuration
+인간-비인간 협업,인간-비인간 협업,human-nonhuman collaboration,,,Actor Relationships & Configuration
+인간-기계협업,인간-기계 협업,human-machine collaboration,,,Actor Relationships & Configuration
+의도와 통제,의도와 통제,Intention and Control,,,Actor Relationships & Configuration
+관객의 개입(미래),관객의 개입,Audience intervention,미래,future,Actor Relationships & Configuration
+예술가-유기체 공동 행위,예술가-유기체 공동 행위,Artist-organism joint action,,,Actor Relationships & Configuration
+예술가 신체의 극한적 경험,예술가 신체의 극한적 경험,Extreme experiences of the artist's body,,,Actor Relationships & Configuration
+관객의 개입,관객의 개입,Audience intervention,,,Actor Relationships & Configuration
+"다중 행위자 네트워크(과학자,기관)",다중 행위자 네트워크,multi-actor network,"과학자, 기관","scientists, institutions",Actor Relationships & Configuration
+창발,창발,Creation,,,Actor Relationships & Configuration
+예술가 주도(환경설계),예술가 주도,Artist-led,환경설계,environmental design,Actor Relationships & Configuration
+알고리즘 생성,알고리즘 생성,Algorithm creation,,,Actor Relationships & Configuration
+예술가-유전자-식물 하이브리드,예술가-유전자-식물 하이브리드,Artist-Gene-Plant Hybrid,,,Actor Relationships & Configuration
+예술가-세포-관객의 공모,예술가-세포-관객의 공모,Artist-Cell-Audience Conspiracy,,,Actor Relationships & Configuration
+예술가-자본-동물의 관계망,예술가-자본-동물의 관계망,"The network of artists, capitalists, and animals",,,Actor Relationships & Configuration
+다중 행위자 네트워크,다중 행위자 네트워크,multi-actor network,,,Actor Relationships & Configuration
+AI 공동창작,AI 공동창작,AI co-creation,,,Actor Relationships & Configuration
+예술가 주도(신체개입),예술가 주도,Artist-led,신체개입,physical intervention,Actor Relationships & Configuration
+커뮤니티 협업,커뮤니티 협업,Community Collaboration,,,Actor Relationships & Configuration
+알고리즘-DNA 상호작용,알고리즘-DNA 상호작용,Algorithm-DNA Interaction,,,Actor Relationships & Configuration
+인간-비인간 협업(과거의 생명),인간-비인간 협업,human-nonhuman collaboration,과거의 생명,Past life,Actor Relationships & Configuration
+분산된 지능,분산된 지능,distributed intelligence,,,Actor Relationships & Configuration
+자율적 생물 과정(암시),자율적 생물 과정,Autonomous biological processes,암시,suggestion,Actor Relationships & Configuration
+기계 행위자,기계 행위자,machine actors,,,Actor Relationships & Configuration
+예술가(기억의 큐레이터),예술가,artist,기억의 큐레이터,Curator of Memory,Actor Relationships & Configuration
+사랑하는이(향기의원천),사랑하는 이,heart,향기의 원천,Source of fragrance,Actor Relationships & Configuration
+식물(살아있는 아카 이브),식물,plant,살아있는 아카이브,Living Archive,Actor Relationships & Configuration
+커플(유전적주체공유),커플,couple,유전적 주체 공유,Genetic subject sharing,Actor Relationships & Configuration
+기술(매개및기록자),기술,technology,매개 및 기록자,Mediator and recorder,Actor Relationships & Configuration
+잠재적후손(사변적주체),잠재적 후손,potential descendants,사변적 주체,speculative subject,Actor Relationships & Configuration
+예술가(재료이자창조자),예술가,artist,재료이자 창조자,Material and Creator,Actor Relationships & Configuration
+배양세포(생물학적물질),배양세포,cultured cells,생물학적 물질,biological material,Actor Relationships & Configuration
+관객(해석의 주체),관객,gallery,해석의 주체,Subject of interpretation,Actor Relationships & Configuration
+신경세포(반응/학습),신경세포,nerve cells,"반응, 학습","Reaction, learning",Actor Relationships & Configuration
+로봇시스템(자극/번역),로봇시스템,Robot system,"자극, 번역","Stimulation, translation",Actor Relationships & Configuration
+관객(상호작용),관객,gallery,상호작용,Interaction,Actor Relationships & Configuration
+예술가(경험의 설계자),예술가,artist,경험의 설계자,Designer of Experiences,Actor Relationships & Configuration
+관객(신체적/기억적 반응의 주체),관객,gallery,"신체적, 기억적 반응의 주체",Subject of physical and memory reactions,Actor Relationships & Configuration
+의도와통제,의도와 통제,Intention and Control,,,Actor Relationships & Configuration
+다중 행위자 네트 워크,다중 행위자 네트워크,multi-actor network,,,Actor Relationships & Configuration
+예측불가능성,예측불가능성,unpredictability,,,Actor Relationships & Configuration
+자율적생물과정,자율적 생물 과정,Autonomous biological processes,,,Actor Relationships & Configuration
+프로세스 주도,프로세스 주도,Process-driven,,,Actor Relationships & Configuration
+비인간 주도,비인간 주도,non-human led,,,Actor Relationships & Configuration
+자연-문화공동주도,자연-문화 공동 주도,Nature-Culture Joint Leadership,,,Actor Relationships & Configuration
+참여자(기증자)협력,참여자 협력,Participant cooperation,기증자,donor,Actor Relationships & Configuration
+생태계 공동 주도,생태계 공동 주도,Joint leadership in the ecosystem,,,Actor Relationships & Configuration
+예술가-박테리아-역사의 결합,예술가-박테리아-역사의 결합,"A nexus of artist, bacteria, and history",,,Actor Relationships & Configuration
+예술가-세포-기술의 융합,예술가-세포-기술의 융합,"The fusion of artist, cell, and technology",,,Actor Relationships & Configuration
+비인간 행위자,비인간 행위자,nonhuman agents,,,Actor Relationships & Configuration
+예술가-데이터 매개,예술가-데이터 매개,Artist-Data Mediator,,,Actor Relationships & Configuration
+알고리즘적 생성,알고리즘적 생성,Algorithmic generation,,,Actor Relationships & Configuration
+예술가 주도 설계,예술가 주도 설계,Artist-led design,,,Actor Relationships & Configuration
+가상적 행위자,가상적 행위자,virtual actors,,,Actor Relationships & Configuration
+예술가-신체-기술 하이브리드,예술가-신체-기술 하이브리드,Artist-Body-Technology Hybrid,,,Actor Relationships & Configuration
+도구적,도구적,instrumental,,,Ethical Approach
+성찰적,성찰적,reflective,,,Ethical Approach
+도발적,도발적,provocative,,,Ethical Approach
+관계적 윤리,관계적 윤리,relational ethics,,,Ethical Approach
+공생적,공생적,Symbiotic,,,Ethical Approach
+돌봄기반,돌봄 기반,Care-based,,,Ethical Approach
+호혜성,호혜성,reciprocity,,,Ethical Approach
+성찰성,성찰성,Reflectivity,,,Ethical Approach
+신경윤리,신경윤리,Neuroethics,,,Ethical Approach
+포스트휴먼 윤리,포스트휴먼 윤리,Posthuman ethics,,,Ethical Approach
+기능적 창조,기능적 창조,Functional Creation,,,Ethical Approach
+자기-실험,자기-실험,self-experimentation,,,Ethical Approach
+존재론적 권리,존재론적 권리,ontological rights,,,Ethical Approach
+책임있는연구혁신,책임있는연구혁신,Responsible Research and Innovation,,,Ethical Approach
+취약성,취약성,Vulnerability,,,Ethical Approach
+상호의존,상호의존,interdependence,,,Ethical Approach
+객체화,객체화,objectification,,,Ethical Approach
+시적창조,시적 창조,poetic creation,,,Ethical Approach
+도발적 질문,도발적 질문,provocative questions,,,Ethical Approach
+체계적 착취,체계적 착취,systematic exploitation,,,Ethical Approach
+초월적,초월적,transcendent,,,Ethical Approach
+도발과 논쟁,도발과 논쟁,Provocation and controversy,,,Ethical Approach
+위험평가,위험평가,Risk assessment,,,Ethical Approach
+권력관계폭로,권력 관계 폭로,Exposing power relations,,,Ethical Approach
+비판적 재현,비판적 재현,Critical Representation,,,Ethical Approach
+동물권,동물권,animal rights,,,Ethical Approach
+생태 중심주의,생태 중심주의,ecocentrism,,,Ethical Approach
+감정의영구보존과자연적소멸의대립,감정의 영구 보존과 자연적 소멸의 대립,The opposition between the permanent preservation of emotions and their natural extinction,,,Ethical Approach
+살아있는 기념물 창조의 윤리,살아있는 기념물 창조의 윤리,The Ethics of Creating Living Monuments,,,Ethical Approach
+유전정보의프라이버시,유전 정보의 프라이버시,Privacy of genetic information,,,Ethical Approach
+사변적생식기술,사변적 생식 기술,Speculative reproductive technology,,,Ethical Approach
+친밀함의 데이 터화,친밀함의 데이터화,Datafication of Intimacy,,,Ethical Approach
+자기-식인주의의경계,자기-식인주의의 경계,The Boundary of Auto-Cannibalism,,,Ethical Approach
+음식과자아의구분,음식과 자아의 구분,The distinction between food and self,,,Ethical Approach
+합성식품의의미,합성 식품의 의미,The meaning of synthetic foods,,,Ethical Approach
+기초적 형태의 의식을만들고조작하는행위,기초적 형태의 의식을 만들고 조작하는 행위,The act of creating and manipulating rudimentary forms of consciousness,,,Ethical Approach
+생명의 도구화,생명의 도구화,Instrumentalization of life,,,Ethical Approach
+향기의비자발적침투성,향기의 비자발적 침투성,Involuntary penetration of scent,,,Ethical Approach
+감정적,감정적,emotional,,,Ethical Approach
+생리적반응의유도,생리적 반응의 유도,Induction of physiological responses,,,Ethical Approach
+신체기증,신체기증,Body donation,,,Ethical Approach
+생명 물질의 도구화,생명 물질의 도구화,Instrumentalization of living matter,,,Ethical Approach
+신성모독,신성모독,blasphemy,,,Ethical Approach
+환경 정화의 주체,환경 정화의 주체,Subject of environmental purification,,,Ethical Approach
+오염의 미학화,오염의 미학화,Aestheticization of pollution,,,Ethical Approach
+위험의 가시화,위험의 가시화,Visualization of risks,,,Ethical Approach
+개념적 전복,개념적 전복,Conceptual subversion,,,Ethical Approach
+후각적,후각적,Olfactory,,,Ethical Approach
+공감각적,공감각적,synesthetic,,,Ethical Approach
+과정기반,과정기반,Process-based,,,Ethical Approach
+개념적,개념적,Conceptual,,,Ethical Approach
+법의학적,법의학적,Forensic,,,Ethical Approach
+불안감 유발,불안감 유발,Causes anxiety,,,Ethical Approach
+사변적,사변적,Speculative,,,Ethical Approach
+비판적,비판적,Critical,,,Ethical Approach
+서사적,서사적,epic,,,Ethical Approach
+명상적,명상적,meditative,,,Ethical Approach
+경이감,경이감,A sense of wonder,,,Ethical Approach
+개념적,개념적,Conceptual,,,Aesthetic Strategy
+데이터 미학,데이터 미학,Data aesthetics,,,Aesthetic Strategy
+퍼포먼스적,퍼포먼스적,performative,,,Aesthetic Strategy
+청각적(소리),청각적,auditory,소리,sound,Aesthetic Strategy
+다중감각(청각적),다중감각,multisensory,청각적,auditory,Aesthetic Strategy
+과정기반,과정기반,Process-based,,,Aesthetic Strategy
+생물학적 형태미,생물학적 형태미,Biological morphology,,,Aesthetic Strategy
+변화와 성장,변화와 성장,Change and growth,,,Aesthetic Strategy
+패턴과 질감,패턴과 질감,Patterns and textures,,,Aesthetic Strategy
+야생성,야생성,Wildness,,,Aesthetic Strategy
+기괴함,기괴함,bizarre,,,Aesthetic Strategy
+경계의 모호함,경계의 모호함,Blurry of boundaries,,,Aesthetic Strategy
+언캐니,언캐니,Uncanny,,,Aesthetic Strategy
+혐오,혐오,aversion,,,Aesthetic Strategy
+그로테스크,그로테스크,grotesque,,,Aesthetic Strategy
+기능적 미학,기능적 미학,Functional aesthetics,,,Aesthetic Strategy
+인내의 스펙터클,인내의 스펙터클,Spectacle of Patience,,,Aesthetic Strategy
+스펙터클,스펙터클,spectacle,,,Aesthetic Strategy
+소멸과 부패,소멸과 부패,Extinction and decay,,,Aesthetic Strategy
+숭고,숭고,Sublime,,,Aesthetic Strategy
+후각적(냄새),후각적,Olfactory,냄새,smell,Aesthetic Strategy
+상징적 하이브리드,상징적 하이브리드,symbolic hybrid,,,Aesthetic Strategy
+내장적 경험,내장적 경험,Visceral experience,,,Aesthetic Strategy
+바로크적 과잉,바로크적 과잉,Baroque excess,,,Aesthetic Strategy
+역사적 질감,역사적 질감,historical texture,,,Aesthetic Strategy
+공예적 미학,공예적 미학,Craft aesthetics,,,Aesthetic Strategy
+시간성,시간성,Temporality,,,Aesthetic Strategy
+연약함의 미학,연약함의 미학,The aesthetics of vulnerability,,,Aesthetic Strategy
+창발,창발,Creation,,,Aesthetic Strategy
+비-효율성의 미학,비-효율성의 미학,The aesthetics of inefficiency,,,Aesthetic Strategy
+혐오의전복,혐오의전복,Overthrow of hate,,,Aesthetic Strategy
+관계미학,관계미학,Relational aesthetics,,,Aesthetic Strategy
+시각중심,시각중심,visual center,,,Aesthetic Strategy
+다중감각(미각),다중감각,multisensory,미각,taste,Aesthetic Strategy
+유머러스함,유머러스함,humor,,,Aesthetic Strategy
+아이디어 중심,아이디어 중심,idea-centered,,,Aesthetic Strategy
+다수성의 미학,다수성의 미학,Aesthetics of plurality,,,Aesthetic Strategy
+비물질성,비물질성,immateriality,,,Aesthetic Strategy
+데이터 경주,데이터 경주,Data Race,,,Aesthetic Strategy
+다중감각,다중감각,multisensory,,,Aesthetic Strategy
+다중감각(후각),다중감각,multisensory,후각,smell,Aesthetic Strategy
+후각적,후각적,Olfactory,,,Aesthetic Strategy
+시적,시적,poetic,,,Aesthetic Strategy
+미니멀리즘,미니멀리즘,minimalism,,,Aesthetic Strategy
+실험실미학,실험실미학,Laboratory Aesthetics,,,Aesthetic Strategy
+데이터 기반,데이터 기반,data-driven,,,Aesthetic Strategy
+아카이브 미학,아카이브 미학,Archive Aesthetics,,,Aesthetic Strategy
+임상적,임상적,Clinical,,,Aesthetic Strategy
+불안을유발하는,불안을 유발하는,anxiety-inducing,,,Aesthetic Strategy
+내장감각적,내장 감각적,Visceral sensory,,,Aesthetic Strategy
+도발적,도발적,provocative,,,Aesthetic Strategy
+요리의형태,요리의 형태,Type of cooking,,,Aesthetic Strategy
+상호작용적,상호작용적,interactive,,,Aesthetic Strategy
+청각적,청각적,auditory,,,Aesthetic Strategy
+역동적,역동적,dynamic,,,Aesthetic Strategy
+미니멀테크미학,미니멀 테크 미학,Minimal tech aesthetic,,,Aesthetic Strategy
+몰입형,몰입형,Immersive,,,Aesthetic Strategy
+비가시적,비가시적,Invisible,,,Aesthetic Strategy
+정동적,정동적,Emotional,,,Aesthetic Strategy
+찰나적,찰나적,Momentary,,,Aesthetic Strategy
+미니멀,미니멀,Minimal,,,Aesthetic Strategy
+비물질적,비물질적,immaterial,,,Aesthetic Strategy
+예측불가능성,예측불가능성,unpredictability,,,Aesthetic Strategy
+프로세스 기반 미학,프로세스 기반 미학,Process-based aesthetics,,,Aesthetic Strategy
+데이터 기반 미학,데이터 기반 미학,Data-driven aesthetics,,,Aesthetic Strategy
+정보미학,정보미학,Information aesthetics,,,Aesthetic Strategy
+상징주의,상징주의,symbolism,,,Aesthetic Strategy
+관계적 미학,관계적 미학,Relational aesthetics,,,Aesthetic Strategy
+프로세스 기반,프로세스 기반,Process-based,,,Aesthetic Strategy
+토속적 미학,토속적 미학,indigenous aesthetics,,,Aesthetic Strategy
+촉각적,촉각적,tactile,,,Aesthetic Strategy
+가정적 오브제,가정적 오브제,domestic objects,,,Aesthetic Strategy
+생물학적 드랙,생물학적 드랙,biological drag,,,Aesthetic Strategy
+세포적(외부),세포적,Cellular,외부,external,Aesthetic Strategy
+미생물학적,미생물학적,Microbiological,,,Aesthetic Strategy
+데이터적,데이터적,Data-based,,,Aesthetic Strategy
+유전적(정보),유전적,genetic,정보,information,Aesthetic Strategy
+생태학적,생태학적,ecological,,,Aesthetic Strategy
+가상적,가상적,virtual,,,Aesthetic Strategy
+외과적(잠재),외과적,Surgical,잠재,Potential,Aesthetic Strategy
+사회비판,사회비판,social criticism,,,Epistemic Function
+지식생산,지식생산,knowledge production,,,Epistemic Function
+미래제안,미래제안,Future proposal,,,Epistemic Function
+권력관계폭로,권력 관계 폭로,Exposing power relations,,,Epistemic Function
+도발과 논쟁,도발과 논쟁,Provocation and controversy,,,Epistemic Function
+인식론적 사물,인식론적 사물,epistemological things,,,Epistemic Function
+과학소통,과학소통,Science Communication,,,Epistemic Function
+예술기반연구,예술기반연구,Arts-based research,,,Epistemic Function
+사회비판(상업주의),사회비판,social criticism,상업주의,commercialism,Epistemic Function
+실험으로서의 예술,실험으로서의 예술,Art as Experiment,,,Epistemic Function
+지식생산(신체경험),지식생산,knowledge production,신체경험,physical experience,Epistemic Function
+사변적 디자인,사변적 디자인,Speculative design,,,Epistemic Function
+과학적 경계 해체,과학적 경계 해체,Dismantling scientific boundaries,,,Epistemic Function
+신체 한계의 경험적 탐구,신체 한계의 경험적 탐구,An empirical exploration of bodily limits,,,Epistemic Function
+윤리적 질문 제기,윤리적 질문 제기,Raising ethical questions,,,Epistemic Function
+제도비판,제도비판,institutional criticism,,,Epistemic Function
+월드빌딩,월드빌딩,World Building,,,Epistemic Function
+정치적 논평,정치적 논평,political commentary,,,Epistemic Function
+종개념의 재정의,종개념의 재정의,Redefining the concept of species,,,Epistemic Function
+대체육의 문화적 의미 탐구,대체육의 문화적 의미 탐구,Exploring the Cultural Meaning of Alternative Meat,,,Epistemic Function
+예술과 상품의 경계 질문,예술과 상품의 경계 질문,Questioning the Boundaries of Art and Commodity,,,Epistemic Function
+역사적 성찰,역사적 성찰,Historical Reflection,,,Epistemic Function
+교육적,교육적,educational,,,Epistemic Function
+미래제안& 사변적 디자인,미래제안& 사변적 디자인,Future Proposal & Speculative Design,,,Epistemic Function
+철학적 질문,철학적 질문,philosophical questions,,,Epistemic Function
+자원정치,자원정치,Resource politics,,,Epistemic Function
+시민 과학 프로젝트,시민 과학 프로젝트,citizen science projects,,,Epistemic Function
+유전적 감시 비판,유전적 감시 비판,Criticism of genetic surveillance,,,Epistemic Function
+자연,자연,nature,,,Epistemic Function
+인공질문,인공질문,artificial questions,,,Epistemic Function
+과학적 객관성의 허구성 폭로,과학적 객관성의 허구성 폭로,Exposing the Fiction of Scientific Objectivity,,,Epistemic Function
+역사 재해석,역사 재해석,Reinterpretation of history,,,Epistemic Function
+정체성 탐구,정체성 탐구,Identity Exploration,,,Epistemic Function
+향기-기억-감정의연결성을가시화,향기-기억-감정의 연결성을 가시화,"Visualizing the connection between scent, memory, and emotion",,,Epistemic Function
+디지털대생물학적기록방식에대한질문,디지털 대생물학적 기록 방식에 대한 질문,Questions about digital biometric recording methods,,,Epistemic Function
+친밀함이 데이 터로 번역되는 방식 제시,친밀함이 데이터로 번역되는 방식 제시,Presenting how intimacy translates into data,,,Epistemic Function
+미래가족의형태에대한질문,미래 가족의 형태에 대한 질문,Questions about the future form of the family,,,Epistemic Function
+세포농업개념을구체화,세포 농업 개념을 구체화,Embodying the concept of cellular agriculture,,,Epistemic Function
+식품의기원에대한본능적대면을강요,식품의 기원에 대한 본능적 대면을 강요,Forces an instinctive confrontation with the origins of food,,,Epistemic Function
+인지과정을외부화,인지과정을 외부화,Externalizing cognitive processes,,,Epistemic Function
+물질화,물질화,Materialization,,,Epistemic Function
+생각의 물질적 기반 증명,생각의 물질적 기반 증명,Proof of the material basis of thought,,,Epistemic Function
+비-시각적감각의힘과정서적연결성을강조,비-시각적 감각의 힘과 정서적 연결성을 강조,Emphasizes the power and emotional connection of non-visual senses,,,Epistemic Function
+사변적 시나리오 제시,사변적 시나리오 제시,Presenting a speculative scenario,,,Epistemic Function
+보이지 않는 것의 가시화,보이지 않는 것의 가시화,Visualizing the Invisible,,,Epistemic Function
+은유적 표현,은유적 표현,metaphorical expression,,,Epistemic Function
+데이터의 물질화,데이터의 물질화,Materialization of data,,,Epistemic Function
+증거제시,증거제시,Presentation of evidence,,,Epistemic Function
+과학적 사실의 시적 번역,과학적 사실의 시적 번역,Poetic translation of scientific facts,,,Epistemic Function
+관계망의 시각화,관계망의 시각화,Visualization of the network,,,Epistemic Function
+장소 특정적 지식 생산,장소 특정적 지식 생산,Place-specific knowledge production,,,Epistemic Function
+문화보존,문화보존,Cultural preservation,,,Epistemic Function
+항생제 내성 문제 공론화,항생제 내성 문제 공론화,Publicizing the issue of antibiotic resistance,,,Epistemic Function
+젠더 이분법의 해체,젠더 이분법의 해체,Deconstructing the gender binary,,,Epistemic Function
+관찰적,관찰적,Observational,,,Epistemic Function
+감각적(비시각),감각적,Sensual,비시각,non-visual,Epistemic Function
+해석적 참여,해석적 참여,interpretive engagement,,,Epistemic Function
+담론적,담론적,discursive,,,Epistemic Function
+관조적,관조적,contemplative,,,Epistemic Function
+과정추적,과정추적,Process tracking,,,Epistemic Function
+탈인간 중심주의,탈인간 중심주의,post-anthropocentrism,,,Philosophical Stance
+생태 여성주의,생태 여성주의,ecofeminism,,,Philosophical Stance
+관계적 존재론,관계적 존재론,relational ontology,,,Philosophical Stance
+신유물론,신유물론,New Materialism,,,Philosophical Stance
+생명 중심주의,생명 중심주의,Biocentrism,,,Philosophical Stance
+심층 생태학,심층 생태학,Deep Ecology,,,Philosophical Stance
+포스트휴머니즘,포스트휴머니즘,Posthumanism,,,Philosophical Stance
+트랜스휴머니즘,트랜스휴머니즘,transhumanism,,,Philosophical Stance
+사이보그 이론,사이보그 이론,Cyborg theory,,,Philosophical Stance
+인간 중심주의 비판,인간 중심주의 비판,Criticism of anthropocentrism,,,Philosophical Stance
+종차별주의 비판,종차별주의 비판,Criticism of speciesism,,,Philosophical Stance
+생명권,생명권,right to life,,,Philosophical Stance
+인간 중심주의,인간 중심주의,anthropocentrism,,,Philosophical Stance
+소비주의 비판,소비주의 비판,Criticism of Consumerism,,,Philosophical Stance
+기술 유토피아니즘,기술 유토피아니즘,Technological utopianism,,,Philosophical Stance
+생태 중심주의,생태 중심주의,ecocentrism,,,Philosophical Stance
+객체 지향 존재론,객체 지향 존재론,Object-oriented ontology,,,Philosophical Stance
+기술 결정론 비판,기술 결정론 비판,Criticism of technological determinism,,,Philosophical Stance
+퀴어이론,퀴어이론,Queer theory,,,Philosophical Stance
+기술 결정론,기술 결정론,technological determinism,,,Philosophical Stance
+포스트휴먼 윤리,포스트휴먼 윤리,Posthuman ethics,,,Philosophical Stance
+소비문화 비판,소비문화 비판,Criticism of consumer culture,,,Philosophical Stance
+탈식민주의,탈식민주의,decolonialism,,,Philosophical Stance
+반자본주의,반자본주의,anti-capitalism,,,Philosophical Stance
+결정론 비판,결정론 비판,Criticism of determinism,,,Philosophical Stance
+심신이원론 비판,심신이원론 비판,Criticism of mind-body dualism,,,Philosophical Stance
+사회구성주의,사회구성주의,social constructivism,,,Philosophical Stance
+애니미즘,애니미즘,animism,,,Philosophical Stance
+정신-신체이원론에도전,정신-신체 이원론에 도전,Challenging mind-body dualism,,,Philosophical Stance
+기억에대한포스트휴먼적관점,기억에 대한 포스트휴먼적 관점,A Posthuman Perspective on Memory,,,Philosophical Stance
+유전자 결정론 비판,유전자 결정론 비판,Criticism of genetic determinism,,,Philosophical Stance
+데이터화된자아탐구,데이터화된 자아 탐구,Exploring the Datafied Self,,,Philosophical Stance
+주체-객체,주체-객체,Subject-Object,,,Philosophical Stance
+소비자-생산물의 경계를 허물기,소비자-생산물의 경계를 허물기,Breaking down the barriers between consumers and products,,,Philosophical Stance
+인간신체의신성성에대한질문,인간 신체의 신성성에 대한 질문,The question of the sacredness of the human body,,,Philosophical Stance
+정신-신체이원론비판,정신-신체 이원론 비판,Criticism of mind-body dualism,,,Philosophical Stance
+의식에대한유물론적관점,의식에 대한 유물론적 관점,A materialist view of consciousness,,,Philosophical Stance
+현상학(체험중심),현상학,phenomenology,체험중심,Experience-centered,Philosophical Stance
+시각중심 주의비판,시각중심 주의비판,Criticism of visual-centered attention,,,Philosophical Stance
+인류세 비판,인류세 비판,Criticism of the Anthropocene,,,Philosophical Stance
+장소 특정적 실천,장소 특정적 실천,site-specific practices,,,Philosophical Stance
+장소 특정성,장소 특정성,site specificity,,,Philosophical Stance
+과정적,과정적,Processual,,,Philosophical Stance
+진화적,진화적,evolutionary,,,Philosophical Stance
+정지된,정지된,Stopped,,,Philosophical Stance
+재구성된,재구성된,Reconstructed,,,Philosophical Stance
+미래적,미래적,futuristic,,,Philosophical Stance
+가상적,가상적,virtual,,,Philosophical Stance
+성장적,성장적,Growth,,,Philosophical Stance
+치유적,치유적,Healing,,,Philosophical Stance
+실험실,실험실,laboratory,,,Social Context
+과학 연구소,과학 연구소,Science Research Institute,,,Social Context
+공공장소(우주),공공장소,public places,우주,universe,Social Context
+미술관,미술관,art gallery,,,Social Context
+자연환경,자연환경,natural environment,,,Social Context
+사설 스튜디오,사설 스튜디오,private studio,,,Social Context
+갤러리,갤러리,Gallery,,,Social Context
+공공장소,공공장소,public places,,,Social Context
+실험실(클리닉),실험실,laboratory,클리닉,Clinic,Social Context
+온라인 플랫폼,온라인 플랫폼,online platform,,,Social Context
+미술관(부재),미술관,art gallery,부재,absence,Social Context
+미디어 공간,미디어 공간,media space,,,Social Context
+퍼포먼스 공간,퍼포먼스 공간,Performance space,,,Social Context
+비엔날레,비엔날레,Biennale,,,Social Context
+도시공간,도시공간,urban space,,,Social Context
+농장,농장,farm,,,Social Context
+박물관,박물관,museum,,,Social Context
+과학관,과학관,Science Museum,,,Social Context
+디자인 페어,디자인 페어,Design Fair,,,Social Context
+산업 박람회,산업 박람회,Industrial fair,,,Social Context
+연구소,연구소,Research Institute,,,Social Context
+커뮤니티 센터,커뮤니티 센터,community center,,,Social Context
+웹기반프로젝트,웹 기반 프로젝트,Web-based projects,,,Social Context
+출판물,출판물,publication,,,Social Context
+공공장소(샘플수집),공공장소,public places,샘플수집,Sample collection,Social Context
+미술관(온실설치),미술관,art gallery,온실설치,Greenhouse installation,Social Context
+비엔날레(대규모 커미션),비엔날레,Biennale,대규모 커미션,large commissions,Social Context
+디지털 소외,디지털 소외,digital exclusion,,,Social Context
+진정성에 대한 갈망,진정성에 대한 갈망,Longing for authenticity,,,Social Context
+새로운애도방식의탐구,새로운 애도 방식의 탐구,Exploring New Ways of Mourning,,,Social Context
+소비자 직접유전학의부상,소비자 직접 유전학의 부상,The Rise of Direct-to-Consumer Genetics,,,Social Context
+발전하는생식기술,발전하는 생식 기술,evolving reproductive technologies,,,Social Context
+지속가능한식량,지속 가능한 식량,Sustainable food,,,Social Context
+동물복지,동물 복지,animal welfare,,,Social Context
+식품의미래에대한사회적논쟁,식품의 미래에 대한 사회적 논쟁,Social Debate on the Future of Food,,,Social Context
+신경과학,신경과학,neuroscience,,,Social Context
+인공지능,인공지능,artificial intelligence,,,Social Context
+뇌-컴퓨터인터페이스기술의발전,뇌-컴퓨터 인터페이스 기술의 발전,Advances in brain-computer interface technology,,,Social Context
+경험경제,경험 경제,experience economy,,,Social Context
+디지털시대의아날로그적경험추구,디지털 시대의 아날로그적 경험 추구,Pursuing analog experiences in the digital age,,,Social Context
+커뮤니티,커뮤니티,Community,,,Social Context
+건축적,건축적,Architectural,,,Social Context
+생태계적,생태계적,Ecological,,,Social Context
+인체적(초상),인체적,human body,초상,portrait,Social Context
+행성적,행성적,planetary,,,Social Context
+인체적(부분),인체적,human body,부분,part time job,Social Context
+해석적 참여,해석적 참여,interpretive engagement,,,Audience Engagement
+관찰적,관찰적,Observational,,,Audience Engagement
+상호작용적,상호작용적,interactive,,,Audience Engagement
+관조적,관조적,contemplative,,,Audience Engagement
+수동적 관람,수동적 관람,passive viewing,,,Audience Engagement
+상호작용적(미래),상호작용적,interactive,미래,future,Audience Engagement
+담론적 참여,담론적 참여,discursive engagement,,,Audience Engagement
+해석적 참여(의식참관),해석적 참여,interpretive engagement,의식참관,Observing the ceremony,Audience Engagement
+참여적,참여적,Participatory,,,Audience Engagement
+참여적(시식),참여적,Participatory,시식,tasting,Audience Engagement
+원격관찰,원격관찰,remote observation,,,Audience Engagement
+데이터 제공,데이터 제공,Data provision,,,Audience Engagement
+관찰적(퍼포먼스),관찰적,Observational,퍼포먼스,performance,Audience Engagement
+공동 창작적,공동 창작적,co-creative,,,Audience Engagement
+워크숍,워크숍,Workshop,,,Audience Engagement
+DIY 키트제공,DIY 키트제공,DIY kit provided,,,Audience Engagement
+시민 과학 프로젝트,시민 과학 프로젝트,citizen science projects,,,Audience Engagement
+다중 감각적 경험,다중감각적 경험,multisensory experience,,,Audience Engagement
+상호작용적(신체센싱),상호작용적,interactive,신체센싱,body sensing,Audience Engagement
+참여적(DIY 키트제공),참여적,Participatory,DIY 키트제공,DIY kit provided,Audience Engagement
+참여적(워크숍),참여적,Participatory,워크숍,Workshop,Audience Engagement
+감각적 참여,감각적 참여,sensory engagement,,,Audience Engagement
+데이터 제공(소변),데이터 제공,Data provision,소변,piss,Audience Engagement
+후각적 경험,후각적 경험,olfactory experience,,,Audience Engagement
+사물에대한명상,사물에 대한 명상,Meditation on Things,,,Audience Engagement
+서사적이해,서사적 이해,narrative understanding,,,Audience Engagement
+아카이브자료의관람,아카이브 자료의 관람,Viewing archive materials,,,Audience Engagement
+담론적참여유도,담론적 참여 유도,Encouraging discursive participation,,,Audience Engagement
+관찰과 담론적 해석,관찰과 담론적 해석,Observation and discursive interpretation,,,Audience Engagement
+본능적,본능적,instinctive,,,Audience Engagement
+감정적반응유발,감정적 반응 유발,Eliciting emotional responses,,,Audience Engagement
+상호작용을통한능동적참여,상호작용을 통한 능동적 참여,Active participation through interaction,,,Audience Engagement
+감각적피드백루프(시청각),감각적 피드백 루프,sensory feedback loop,시청각,Audiovisual,Audience Engagement
+비자발적,비자발적,Involuntary,,,Audience Engagement
+생리적,생리적,Physiological,,,Audience Engagement
+감성적몰입,감성적몰입,emotional immersion,,,Audience Engagement
+시스템적,시스템적,Systematic,,,Audience Engagement
+자율적,자율적,autonomous,,,Audience Engagement
+우연적 발견,우연적 발견,accidental discovery,,,Audience Engagement
+충격과 성찰 유도,충격과 성찰 유도,Inducing shock and reflection,,,Audience Engagement
+담론형성,담론형성,Discourse formation,,,Audience Engagement
+참여적(기증),참여적,Participatory,기증,endowment,Audience Engagement
+장소 특정적 경험,장소 특정적 경험,place-specific experiences,,,Audience Engagement
+해석적,해석적,Interpretive,,,Audience Engagement
+담론적,담론적,discursive,,,Audience Engagement
+정체성 정치,정체성 정치,identity politics,,,Audience Engagement
+젠더와 인종,젠더와 인종,Gender and Race,,,Audience Engagement
+전염과 오염,전염과 오염,Contagion and contamination,,,Audience Engagement
+감시사회,감시 사회,surveillance society,,,Audience Engagement
+유전적 프라이버시,유전적 프라이버시,Genetic Privacy,,,Audience Engagement
+법의학적 권력,법의학적 권력,forensic power,,,Audience Engagement
+합성생물학,합성생물학,synthetic biology,,,Audience Engagement
+탈멸종,탈멸종,Endangered species,,,Audience Engagement
+생물다양성 보존,생물다양성 보존,Biodiversity conservation,,,Audience Engagement
+재생의료,재생의료,regenerative medicine,,,Audience Engagement
+신체강화,신체강화,Body strengthening,,,Audience Engagement
+생명의 정의,생명의 정의,Definition of life,,,Audience Engagement
+진화적,진화적,evolutionary,,,Temporal Scale
+세대간,세대간,intergenerational,,,Temporal Scale
+순간적,순간적,momentary,,,Temporal Scale
+일시적,일시적,temporary,,,Temporal Scale
+지속적,지속적,continuous,,,Temporal Scale
+장기 프로젝트,장기 프로젝트,long-term project,,,Temporal Scale
+단기전시,단기 전시,short-term exhibition,,,Temporal Scale
+진행중,진행중,in progress,,,Temporal Scale
+실시간,실시간,Real-time,,,Temporal Scale
+소멸,소멸,extinction,,,Temporal Scale
+성장적,성장적,Growth,,,Temporal Scale
+과정적,과정적,Processual,,,Temporal Scale
+장기적,장기적,long-term,,,Temporal Scale
+반복수행,반복수행,Repeated execution,,,Temporal Scale
+역사적 시간성,역사적 시간성,historical temporality,,,Temporal Scale
+변화와 성장,변화와 성장,Change and growth,,,Temporal Scale
+단기전시(반복),단기 전시,short-term exhibition,반복,repeat,Temporal Scale
+단기전시(영상),단기 전시,short-term exhibition,영상,video,Temporal Scale
+과정기반,과정기반,Process-based,,,Temporal Scale
+퍼포먼스적,퍼포먼스적,performative,,,Temporal Scale
+과거의순간을포착하여미래를위해보존,과거의 순간을 포착하여 미래를 위해 보존,Capturing moments from the past and preserving them for the future,,,Temporal Scale
+식물의생애주기,식물의 생애 주기,Plant life cycle,,,Temporal Scale
+현재의친밀한순간을미래세대를위해기록,현재의 친밀한 순간을 미래 세대를 위해 기록,Recording intimate moments of the present for future generations,,,Temporal Scale
+가까운미래의시나리오를현재로소환,가까운 미래의 시나리오를 현재로 소환,Summoning a near-future scenario into the present,,,Temporal Scale
+실시간프로세스및상호작용,실시간 프로세스 및 상호작용,Real-time processes and interactions,,,Temporal Scale
+현재의 순간에 과거의 기억을 촉발,현재의 순간에 과거의 기억을 촉발,Triggering past memories in the present moment,,,Temporal Scale
+실시간 퍼포먼스,실시간 퍼포먼스,Real-time performance,,,Temporal Scale
+진행형,진행형,Progressive,,,Temporal Scale
+지속과 소멸: 에너지를얻는한계속작동하지만,지속과 소멸: 에너지를 얻는 한 계속 작동하지만,Persistence and extinction: It will continue to work as long as it gets energy.,,,Temporal Scale
+언제든제거될수있는일시적생존의시간성,언제든 제거될 수 있는 일시적 생존의 시간성,The temporality of temporary survival that can be removed at any time,,,Temporal Scale
+딥타임,딥타임,Deep Time,,,Temporal Scale
+가속화된 시간,가속화된 시간,Accelerated time,,,Temporal Scale
+현재 진행형,현재 진행형,present progressive tense,,,Temporal Scale
+생명의 순환,생명의 순환,The cycle of life,,,Temporal Scale
+지구물리학적 시간,지구물리학적 시간,Geophysical time,,,Temporal Scale
+산업의 역사,산업의 역사,History of Industry,,,Temporal Scale
+생태적 회복,생태적 회복,ecological restoration,,,Temporal Scale
+성장및소멸,성장 및 소멸,Growth and decay,,,Temporal Scale
+포스트휴머니즘,포스트휴머니즘,Posthumanism,,,Temporal Scale
+신유물론,신유물론,New Materialism,,,Temporal Scale
+생태 여성주의,생태 여성주의,ecofeminism,,,Temporal Scale
+기술 결정론 비판,기술 결정론 비판,Criticism of technological determinism,,,Temporal Scale
+데이터 존재론,데이터 존재론,Data Ontology,,,Temporal Scale
+기술 유토피아니즘 비판,기술 유토피아니즘 비판,Critique of Technological Utopianism,,,Temporal Scale
+인간 중심주의 비판,인간 중심주의 비판,Criticism of anthropocentrism,,,Temporal Scale
+트랜스휴머니즘,트랜스휴머니즘,transhumanism,,,Temporal Scale
+생명 중심주의,생명 중심주의,Biocentrism,,,Temporal Scale
+분자단위,분자단위,molecular unit,,,Spatio Scale
+세포단위,세포단위,Cell unit,,,Spatio Scale
+지구적 네트워크,지구적 네트워크,global network,,,Spatio Scale
+매크로,매크로,Macro,,,Spatio Scale
+마이크로,마이크로,Micro,,,Spatio Scale
+개체단위,개체단위,Individual unit,,,Spatio Scale
+군집단위,군집단위,cluster unit,,,Spatio Scale
+인간신체규모,인간 신체 규모,human body size,,,Spatio Scale
+미시적-거시적,미시적-거시적,Micro-macro,,,Spatio Scale
+건축적,건축적,Architectural,,,Spatio Scale
+설치규모,설치규모,Installation scale,,,Spatio Scale
+건축규모,건축규모,Building scale,,,Spatio Scale
+유기체적,유기체적,organic,,,Spatio Scale
+분자적,분자적,molecular,,,Spatio Scale
+글로벌,글로벌,Global,,,Spatio Scale
+개체 단위에서 설치 규모로,개체 단위에서 설치 규모로,From individual units to installation scale,,,Spatio Scale
+개체 단위에서 설치 규모,개체 단위에서 설치 규모,Installation scale at the object level,,,Spatio Scale
+분자,분자,molecule,,,Spatio Scale
+인간신체,인간신체,human body,,,Spatio Scale
+분자에서 인간 신체 규모,분자에서 인간 신체 규모,From molecules to human body scale,,,Spatio Scale
+세포 단위에서 개체 단위,세포 단위에서 개체 단위,From cell unit to individual unit,,,Spatio Scale
+산업규모,산업규모,Industrial scale,,,Spatio Scale
+개체단위(가상),개체단위,Individual unit,가상,pseudomorph,Spatio Scale
+지역 생태계,지역 생태계,local ecosystem,,,Spatio Scale
+분자 단위에서 네트워크까지,분자 단위에서 네트워크까지,From molecules to networks,,,Spatio Scale
+분자(향),분자,molecule,향,incense,Spatio Scale
+유기체(식물),유기체,organism,식물,plant,Spatio Scale
+설치(갤러리 공간),설치,installation,갤러리 공간,Gallery space,Spatio Scale
+"오브제(유리병,문서)",오브제,object,"유리병, 문서","glass bottle, document",Spatio Scale
+데이터,데이터,data,,,Spatio Scale
+마이크로(세포),마이크로,Micro,세포,cell,Spatio Scale
+매크로(미트볼),매크로,Macro,미트볼,meatball,Spatio Scale
+인간(신체의기원),인간,human being,신체의기원,Origin of the body,Spatio Scale
+마이크로(신경망),마이크로,Micro,신경망,neural network,Spatio Scale
+오브제(페트리디쉬),오브제,object,페트리디쉬,petri dish,Spatio Scale
+설치(방),설치,installation,방,room,Spatio Scale
+대기적(공간을 채움),대기적,Waiting,공간을 채움,Filling the space,Spatio Scale
+건축적 스케일,건축적 스케일,Architectural scale,,,Spatio Scale
+특정 공간 맞춤형,특정 공간 맞춤형,Tailored to specific spaces,,,Spatio Scale
+방크기설치,방크기설치,Room size installation,,,Spatio Scale
+대규모 설치,대규모 설치,large-scale installation,,,Spatio Scale
+건축,건축,building,,,Spatio Scale
+생태계,생태계,ecosystem,,,Spatio Scale
+행성,행성,planet,,,Spatio Scale
+신체,신체,body,,,Spatio Scale
+개인,개인,individual,,,Spatio Scale
+미시적-인간적,미시적-인간적,Micro-human,,,Spatio Scale
+세포적,세포적,Cellular,,,Spatio Scale
+미술관,미술관,art gallery,,,Spatio Scale
+갤러리(화이트 큐브),갤러리,Gallery,화이트 큐브,White Cube,Spatio Scale
+갤러리,갤러리,Gallery,,,Spatio Scale
+온라인 플랫폼,온라인 플랫폼,online platform,,,Spatio Scale
+공공담론,공공담론,public discourse,,,Spatio Scale
+디자인 비엔날레,디자인 비엔날레,Design Biennale,,,Spatio Scale
+학술 컨퍼런스,학술 컨퍼런스,Academic conference,,,Spatio Scale
+실험실,실험실,laboratory,,,Spatio Scale
+제도비판,제도비판,institutional criticism,,,Power and Capital Critique
+지적 재산권,지적 재산권,intellectual property rights,,,Power and Capital Critique
+거버넌스,거버넌스,Governance,,,Power and Capital Critique
+바이오 캐피탈(비판적),바이오 캐피탈,Bio Capital,비판적,Critical,Power and Capital Critique
+상품화(비판적),상품화,commercialization,비판적,Critical,Power and Capital Critique
+상업화(비판적),상업화,commercialization,비판적,Critical,Power and Capital Critique
+지식의 탈권위화,지식의 탈권위화,Deauthorization of knowledge,,,Power and Capital Critique
+생명정치,생명정치,biopolitics,,,Power and Capital Critique
+미디어 정치,미디어 정치,Media Politics,,,Power and Capital Critique
+노동,노동,labor,,,Power and Capital Critique
+상업화,상업화,commercialization,,,Power and Capital Critique
+상품화,상품화,commercialization,,,Power and Capital Critique
+자원정치,자원정치,Resource politics,,,Power and Capital Critique
+유전자 특허 비판,유전자 특허 비판,Criticism of gene patents,,,Power and Capital Critique
+푸드테크 산업 비판,푸드테크 산업 비판,Criticism of the food tech industry,,,Power and Capital Critique
+예술시장비판,예술 시장 비판,Criticism of the art market,,,Power and Capital Critique
+연구기금,연구기금,Research Fund,,,Power and Capital Critique
+퀴어이론,퀴어이론,Queer theory,,,Power and Capital Critique
+바이오 캐피탈,바이오 캐피탈,Bio Capital,,,Power and Capital Critique
+계급,계급,class,,,Power and Capital Critique
+사회적 불평등,사회적 불평등,social inequality,,,Power and Capital Critique
+탈식민주의,탈식민주의,decolonialism,,,Power and Capital Critique
+제도적 자원,제도적 자원,institutional resources,,,Power and Capital Critique
+의료-산업 복합체,의료-산업 복합체,medical-industrial complex,,,Power and Capital Critique
+유전학의 상업화 비판,유전학의 상업화 비판,Criticizing the Commercialization of Genetics,,,Power and Capital Critique
+대안적 가치 체계,대안적 가치 체계,alternative value systems,,,Power and Capital Critique
+상징정치,상징정치,symbolic politics,,,Power and Capital Critique
+헬스케어 정치,헬스케어 정치,Healthcare Politics,,,Power and Capital Critique
+정체성 정치,정체성 정치,identity politics,,,Power and Capital Critique
+인종정치,인종정치,racial politics,,,Power and Capital Critique
+종차별주의 비판,종차별주의 비판,Criticism of speciesism,,,Power and Capital Critique
+친족관계정치,친족관계정치,nepotism,,,Power and Capital Critique
+사랑,사랑,love,,,Power and Capital Critique
+기억의상품화,기억의상품화,commodification of memory,,,Power and Capital Critique
+맞춤형 바이오 제품의 가능성,맞춤형 바이오 제품의 가능성,The potential of personalized bioproducts,,,Power and Capital Critique
+유전 데이터의 자본화,유전 데이터의 자본화,Capitalizing on genetic data,,,Power and Capital Critique
+생식의 생명경제,생식의 생명경제,The bioeconomy of reproduction,,,Power and Capital Critique
+식품산업비판,식품 산업 비판,Criticism of the food industry,,,Power and Capital Critique
+인체로확장되는바이오자본주의,인체로 확장되는 바이오 자본주의,Biocapitalism extending to the human body,,,Power and Capital Critique
+신경과학연구의펀딩구조와연구윤리,신경과학 연구의 펀딩 구조와 연구 윤리,Funding Structure and Research Ethics in Neuroscience Research,,,Power and Capital Critique
+향기 브랜딩,향기 브랜딩,Fragrance Branding,,,Power and Capital Critique
+감성과 경험의 마케팅,감성과 경험의 마케팅,Marketing of Emotions and Experiences,,,Power and Capital Critique
+소비주의 비판,소비주의 비판,Criticism of Consumerism,,,Power and Capital Critique
+권력관계폭로,권력 관계 폭로,Exposing power relations,,,Power and Capital Critique
+데이터 자본주의 비판,데이터 자본주의 비판,Critique of data capitalism,,,Power and Capital Critique
+기술의 유산,기술의 유산,Legacy of Technology,,,Power and Capital Critique
+소비 자본주의 비판,소비 자본주의 비판,Criticism of consumer capitalism,,,Power and Capital Critique
+환경정책,환경정책,environmental policy,,,Power and Capital Critique
+생명윤리,생명윤리,bioethics,,,Power and Capital Critique
+기증경제,기증경제,donation economy,,,Power and Capital Critique
+환경복원,환경복원,environmental restoration,,,Power and Capital Critique
+산업유산,산업유산,Industrial Heritage,,,Power and Capital Critique
+순환경제,순환경제,circular economy,,,Power and Capital Critique
+상품화 비판,상품화 비판,Criticism of commercialization,,,Power and Capital Critique
+순환경제제안,순환경제제안,Circular Economy Proposal,,,Power and Capital Critique
+지속가능성,지속가능성,Sustainability,,,Power and Capital Critique
+지역성,지역성,regionality,,,Power and Capital Critique
+공중 보건 시스템 비판,공중 보건 시스템 비판,Criticism of the public health system,,,Power and Capital Critique
+가부장제 비판,가부장제 비판,Criticism of patriarchy,,,Power and Capital Critique
+유전자 변형 생물의창조,유전자 변형 생물의창조,Creation of genetically modified organisms,,,Power and Capital Critique
+생명체 도구화,생명체 도구화,Instrumentalization of life,,,Power and Capital Critique
+동의없는유전정보사용,동의 없는 유전 정보 사용,Use of genetic information without consent,,,Power and Capital Critique
+인종적 프로파일링,인종적 프로파일링,racial profiling,,,Power and Capital Critique
+인공 생태계의 의도치 않은 결과,인공 생태계의 의도치 않은 결과,Unintended Consequences of Artificial Ecosystems,,,Power and Capital Critique
+신의영역침범,신의 영역 침범,Invasion of the divine realm,,,Power and Capital Critique
+인간-동물 키메라,인간-동물 키메라,human-animal chimeras,,,Power and Capital Critique
+신체 부위의 소유권,신체 부위의 소유권,Ownership of body parts,,,Power and Capital Critique
+생명창조,생명창조,Creation of life,,,Power and Capital Critique
+현미경 이미지,현미경 이미지,Microscope image,,,Documentation & Representation
+다이어그램,다이어그램,Diagram,,,Documentation & Representation
+연구노트,연구노트,Research Notes,,,Documentation & Representation
+출판물,출판물,publication,,,Documentation & Representation
+데이터 시각화,데이터 시각화,Data visualization,,,Documentation & Representation
+강연 퍼포먼스,강연 퍼포먼스,Lecture Performance,,,Documentation & Representation
+내러티브,내러티브,narrative,,,Documentation & Representation
+실시간 영상,실시간 영상,Live video,,,Documentation & Representation
+사진기록,사진기록,Photographic records,,,Documentation & Representation
+물질적 잔여물,물질적 잔여물,material residue,,,Documentation & Representation
+실시간 영상(내시경),실시간 영상,Live video,내시경,endoscopy,Documentation & Representation
+타임랩스 비디오,타임랩스 비디오,Time-lapse video,,,Documentation & Representation
+살아있는 시스템,살아있는 시스템,living system,,,Documentation & Representation
+사진,사진,picture,,,Documentation & Representation
+영상기록,영상기록,Video record,,,Documentation & Representation
+물질적 잔여물(번역된 텍스트),물질적 잔여물,material residue,번역된 텍스트,Translated text,Documentation & Representation
+내러티브(캠페인),내러티브,narrative,캠페인,campaign,Documentation & Representation
+구술,구술,dictation,,,Documentation & Representation
+물질적 잔여물(보존된 조각),물질적 잔여물,material residue,보존된 조각,preserved fragments,Documentation & Representation
+퍼포먼스 기록,퍼포먼스 기록,Performance Record,,,Documentation & Representation
+실시간 영상(퍼포먼스),실시간 영상,Live video,퍼포먼스,performance,Documentation & Representation
+물질적 잔여물(동결건조 혈액),물질적 잔여물,material residue,동결건조 혈액,freeze-dried blood,Documentation & Representation
+물질적 잔여물(진공포장 배설물),물질적 잔여물,material residue,진공포장 배설물,Vacuum-packed excrement,Documentation & Representation
+프로토타입 모델,프로토타입 모델,prototype model,,,Documentation & Representation
+실시간 영상(레이저쇼),실시간 영상,Live video,레이저쇼,laser show,Documentation & Representation
+살아있는 조각,살아있는 조각,living sculpture,,,Documentation & Representation
+살아있는 작품,살아있는 작품,living works,,,Documentation & Representation
+설치 잔여물,설치 잔여물,Installation residue,,,Documentation & Representation
+물질적 잔여물(변형된 유물),물질적 잔여물,material residue,변형된 유물,Transformed relics,Documentation & Representation
+물질적 잔여물(드레스),물질적 잔여물,material residue,드레스,dress,Documentation & Representation
+실시간 영상(타임랩스),실시간 영상,Live video,타임랩스,Timelapse,Documentation & Representation
+비디오 기록,비디오 기록,Video recording,,,Documentation & Representation
+출판물(블로그),출판물,publication,블로그,Blog,Documentation & Representation
+물질적 잔여물(세포),물질적 잔여물,material residue,세포,cell,Documentation & Representation
+시제품(직물),시제품,prototype,직물,textile,Documentation & Representation
+아카이빙,아카이빙,Archiving,,,Documentation & Representation
+물질적 잔여물(조각),물질적 잔여물,material residue,조각,piece,Documentation & Representation
+실시간 영상(웹캐스트),실시간 영상,Live video,웹캐스트,Webcast,Documentation & Representation
+레시피,레시피,recipe,,,Documentation & Representation
+3D 프린팅 조각,3D 프린팅 조각,3D printed sculptures,,,Documentation & Representation
+살아있는 유기체,살아있는 유기체,living organisms,,,Documentation & Representation
+설치,설치,installation,,,Documentation & Representation
+실시간 영상(애니메이션),실시간 영상,Live video,애니메이션,animated movie,Documentation & Representation
+물질적 잔여물(향),물질적 잔여물,material residue,향,incense,Documentation & Representation
+데이터 시각화(웹),데이터 시각화,Data visualization,웹,Web,Documentation & Representation
+실시간 식물 성장,실시간 식물 성장,Real-time plant growth,,,Documentation & Representation
+영상,영상,video,,,Documentation & Representation
+조각적 오브제,조각적 오브제,sculptural object,,,Documentation & Representation
+드로잉,드로잉,Drawing,,,Documentation & Representation
+워크숍 기록,워크숍 기록,Workshop Record,,,Documentation & Representation
+텍스타일,텍스타일,Textiles,,,Documentation & Representation
+조각,조각,piece,,,Documentation & Representation
+물질적 잔여물(크림),물질적 잔여물,material residue,크림,cream,Documentation & Representation
+유리용기,유리용기,glass container,,,Documentation & Representation
+살아있는 식물,살아있는 식물,living plants,,,Documentation & Representation
+텍스트,텍스트,Text,,,Documentation & Representation
+액자속 DNA 염기서열,액자속 DNA 염기서열,DNA sequence in a frame,,,Documentation & Representation
+실험실오브제,실험실 오브제,Laboratory Objects,,,Documentation & Representation
+프로젝트설명문,프로젝트 설명문,Project Description,,,Documentation & Representation
+바이오 오브제 자체,바이오 오브제 자체,The bio object itself,,,Documentation & Representation
+과정및결과의사진기록,과정 및 결과의 사진 기록,Photographic documentation of the process and results,,,Documentation & Representation
+상호작용적설치물자체,상호작용적 설치물 자체,The interactive installation itself,,,Documentation & Representation
+서사,서사,narrative,,,Documentation & Representation
+화학식,화학식,Chemical formula,,,Documentation & Representation
+관객의 증언에 의존(기록의 어려움),관객의 증언에 의존,Relying on audience testimony,기록의 어려움,Difficulty of recording,Documentation & Representation
+영상 기록물,영상 기록물,Video records,,,Documentation & Representation
+비평텍스트를통한퍼포먼스기록,비평 텍스트를 통한 퍼포먼스 기록,Documenting performance through critical text,,,Documentation & Representation
+작동 다이어그램,작동 다이어그램,Operating diagram,,,Documentation & Representation
+과학적 설명,과학적 설명,scientific explanation,,,Documentation & Representation
+설치기록영상,설치 기록 영상,Installation Record Video,,,Documentation & Representation
+프로토타입전시,프로토타입 전시,Prototype exhibition,,,Documentation & Representation
+거리사진,거리사진,street photography,,,Documentation & Representation
+지도 기반의 위치 기록,지도 기반의 위치 기록,Map-based location history,,,Documentation & Representation
+구술적재현,구술적재현,Oral representation,,,Documentation & Representation
+비디오,비디오,video,,,Documentation & Representation
+웹아카이브,웹아카이브,Web Archive,,,Documentation & Representation
+아카이브,아카이브,Archive,,,Documentation & Representation
+지도,지도,map,,,Documentation & Representation
+오브제,오브제,object,,,Documentation & Representation
+공예 오브제,공예 오브제,Craft objects,,,Documentation & Representation
+과학적 기록,과학적 기록,scientific records,,,Documentation & Representation
+사변적 서사,사변적 서사,Speculative narrative,,,Documentation & Representation
+알고리즘적 재현,알고리즘적 재현,Algorithmic reproduction,,,Documentation & Representation
+추측적 초상,추측적 초상,Speculative portrait,,,Documentation & Representation
+사변적 디자인,사변적 디자인,Speculative design,,,Documentation & Representation
+디지털 렌더링,디지털 렌더링,digital rendering,,,Documentation & Representation
+과정의 기록,과정의 기록,Record of the process,,,Documentation & Representation

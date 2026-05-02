@@ -1,0 +1,17 @@
+data:
+  embeddings_npz: ../../artifacts/04_embedding/bge_large_en_v1_5/embeddings_axes.npz
+  ids_csv: ../../artifacts/04_embedding/bge_large_en_v1_5/ids.csv
+  meta_json: ../../artifacts/04_embedding/bge_large_en_v1_5/meta.json
+  raw_terms_csv: ../../../data/processed/bioartlas_axes_bilingual.csv
+exp:
+  k_range: [5, 15]      # inclusive
+  seeds: 50
+  n_init: 20
+  use_trace_normalize: false
+  kernel_postproc:
+    zero_diagonal: true
+    knn_k: 10         # 0 or negative to disable
+    knn_sym: mutual   # mutual | union
+    center: false     # usually keep false for Laplacian graphs
+output:
+  dir: ../../artifacts/experiments/gpt_pipeline
