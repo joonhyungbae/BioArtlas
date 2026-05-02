@@ -11,6 +11,7 @@ __pycache__/
 # Web build/install outputs
 node_modules/
 dist/
+BioArtlas_paper/
 
 # Paper build outputs
 *.aux
