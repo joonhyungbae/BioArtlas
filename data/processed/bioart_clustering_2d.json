@@ -3,7 +3,7 @@
     "title": "BioArtlas - 2D Visualization (best)",
     "description": "Phase C best clustering on codebook-applied features",
     "version": "2.0",
-    "created": "2026-05-02T22:33:32.536583",
+    "created": "2026-05-02T23:48:11.964586",
     "algorithm": "agglomerative",
     "parameters": {
       "feature_key": "tfidf_counts_l2",

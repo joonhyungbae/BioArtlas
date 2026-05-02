@@ -2,7 +2,7 @@
 
 BioArtlas is a computational framework for analyzing bioart through
 multi-dimensional clustering. This repository contains the public dataset, the
-maintained reproduction pipeline, and the interactive web frontends.
+maintained reproduction pipeline, and the static project page.
 
 ## Links
 
@@ -15,8 +15,7 @@ maintained reproduction pipeline, and the interactive web frontends.
 
 - [`code/`](code/): maintained reproduction pipeline and verification scripts
 - [`data/`](data/): canonical dataset, metadata, raw tables, and processed tables
-- [`BioArtlas_web/`](BioArtlas_web/): web-facing frontends
-- [`BioArtlas_web/project_page/`](BioArtlas_web/project_page/): landing/project page frontend
+- [`projectPage/`](projectPage/): landing/project page frontend for the public site
 
 ## Dataset
 
@@ -54,18 +53,22 @@ cd code
 python verify_paper.py --seeds 50
 ```
 
-## Web Frontends
+## Project Page And Web Export
 
-[`BioArtlas_web/`](BioArtlas_web/) contains the interactive Vue visualization.
-It consumes [`BioArtlas_web/public/bioart_clustering_2d.json`](BioArtlas_web/public/bioart_clustering_2d.json),
+[`projectPage/`](projectPage/) contains the React/Vite landing page that ships
+with this repository.
+
+The interactive visualization lives in a separate `BioArtlas_web` repository.
+This repo only prepares the export payload for it. The standard JSON is written
+to [`data/processed/bioart_clustering_2d.json`](data/processed/bioart_clustering_2d.json),
 which can be refreshed from the reproduction outputs with:
 
 ```bash
 python code/08_build_web_json.py
 ```
 
-[`BioArtlas_web/project_page/`](BioArtlas_web/project_page/) contains the
-separate React/Vite landing page.
+If you want to write directly into a local checkout of the separate web repo,
+set `BIOARTLAS_WEB_JSON_OUT=/path/to/BioArtlas_web/public/bioart_clustering_2d.json`.
 
 ## Citation
 

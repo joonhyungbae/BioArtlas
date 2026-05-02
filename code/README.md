@@ -4,8 +4,6 @@
 [`../data/dataset/BioArtlas.csv`](../data/dataset/BioArtlas.csv) and writes
 generated results under [`artifacts/`](artifacts/).
 
-Web UI code lives in [`../BioArtlas_web/`](../BioArtlas_web/).
-
 ## Setup
 
 ```bash
@@ -23,7 +21,8 @@ pip install -r requirements.txt
 4. `07_run_clustering_sweep.py`
    Sweeps clustering configurations and saves the best run.
 5. `08_build_web_json.py`
-   Optional web-export step that refreshes the JSON payload used by the Vue app.
+   Optional export step that refreshes the JSON payload used by the separate
+   interactive web repository.
 6. `09_export_final_artifacts.py`
    Standardizes the final artifacts under `artifacts/final/`.
 
@@ -47,6 +46,13 @@ Main generated outputs are written to:
 - `artifacts/final/`
 
 The final curated export lives under [`artifacts/final/`](artifacts/final).
+The standard web payload is written to
+[`../data/processed/bioart_clustering_2d.json`](../data/processed/bioart_clustering_2d.json).
+
+If you want to write directly into a local checkout of the separate
+`BioArtlas_web` repository, set
+`BIOARTLAS_WEB_JSON_OUT=/path/to/BioArtlas_web/public/bioart_clustering_2d.json`
+before running `08_build_web_json.py`.
 
 ## Verify The Paper
 

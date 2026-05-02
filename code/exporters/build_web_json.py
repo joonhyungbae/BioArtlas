@@ -4,17 +4,19 @@
 """
 build_web_json.py
 - 07 단계의 글로벌 best 결과(embedding_2d_with_clusters.csv)를
-  BioArtlas_web의 웹 시각화용 JSON으로 변환하여 저장
+  별도 웹 저장소에서 사용할 JSON으로 변환하여 저장
 
 입력 우선순위:
  1) artifacts/06_apply_codebook/bge_large_en_v1_5/phaseC_sweep_results/best/embedding_2d_with_clusters.csv (글로벌 베스트)
  2) artifacts/06_apply_codebook/bge_large_en_v1_5/phaseC_sweep_results/best_by_algo/agglomerative/embedding_2d_with_clusters.csv (폴백)
 
 출력:
- - ../BioArtlas_web/public/bioart_clustering_2d.json
+ - 기본값: ../data/processed/bioart_clustering_2d.json
+ - 선택적 override: $BIOARTLAS_WEB_JSON_OUT
 """
 
 from __future__ import annotations
+import os
 from pathlib import Path
 from typing import Dict, Any, List
 import re
@@ -33,7 +35,7 @@ PREF_AGGLO = ROOT / "best_by_algo/agglomerative/embedding_2d_with_clusters.csv"
 PREF_AGGLO_META = ROOT / "best_by_algo/agglomerative/meta.json"
 FALLBACK_BEST = ROOT / "best/embedding_2d_with_clusters.csv"
 FALLBACK_BEST_META = ROOT / "best/meta.json"
-OUT_JSON = REPO_ROOT / "BioArtlas_web" / "public" / "bioart_clustering_2d.json"
+DEFAULT_OUT_JSON = REPO_ROOT / "data" / "processed" / "bioart_clustering_2d.json"
 AXIS_CSV = REPO_ROOT / "data" / "processed" / "bioartlas_axes_bilingual.csv"
 ARTIST_LABEL_CSV = REPO_ROOT / "data" / "metadata" / "artist_labels.csv"
 
@@ -64,6 +66,16 @@ def _generate_colors(n_colors: int) -> List[str]:
         r, g, b = colorsys.hsv_to_rgb(hue, 0.8, 0.9)
         colors.append("#%02x%02x%02x" % (int(r * 255), int(g * 255), int(b * 255)))
     return colors
+
+
+def _resolve_out_json() -> Path:
+    override = os.environ.get("BIOARTLAS_WEB_JSON_OUT", "").strip()
+    if not override:
+        return DEFAULT_OUT_JSON
+    out_path = Path(override).expanduser()
+    if not out_path.is_absolute():
+        out_path = REPO_ROOT / out_path
+    return out_path
 
 
 def _load_inputs() -> tuple[pd.DataFrame, Path, Dict[str, Any]]:
@@ -109,6 +121,7 @@ def _load_artist_labels() -> Dict[str, str]:
 def main():
     df, src_csv, meta = _load_inputs()
     artist_labels = _load_artist_labels()
+    out_json = _resolve_out_json()
 
     # 필수 컬럼 확인/정규화
     # 예상 컬럼: Artist, Artwork, Year, (선택)Gen, x, y, cluster
@@ -400,12 +413,12 @@ def main():
         "viewport": {"default_scale": 1.0, "default_padding": 0.1},
     }
 
-    OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    out_json.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_json, "w", encoding="utf-8") as f:
         json.dump(out_obj, f, ensure_ascii=False, indent=2)
 
     print("[08] Saved:")
-    print(" -", OUT_JSON)
+    print(" -", out_json)
     print("[08] Source:", src_csv)
 
 

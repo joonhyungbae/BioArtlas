@@ -1,8 +1,8 @@
 # BioArtlas Project Page
 
-[`project_page/`](.) is the landing-page frontend for the BioArtlas project.
-It is separate from the interactive visualization app in the parent
-[`../`](..).
+[`projectPage/`](.) is the landing-page frontend for the BioArtlas project.
+It ships with this repository and is separate from the interactive
+visualization app, which lives in another repository.
 
 ## Stack
 
