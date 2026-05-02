@@ -1,12 +1,14 @@
+import { PROJECT_STATS, SITE_LINKS } from "@/lib/siteConfig";
+
 const DatasetStats = () => {
   const stats = [
-    { label: "Works", value: "81" },
-    { label: "Artists", value: "33" },
-    { label: "Temporal Range", value: "1976–2022" },
-    { label: "Unique Keywords", value: "770" },
-    { label: "Keywords per Work", value: "28.2 (mean)" },
-    { label: "Total Assignments", value: "2,285" },
-    { label: "Analytical Axes", value: "13" },
+    { label: "Works", value: PROJECT_STATS.works },
+    { label: "Artists", value: PROJECT_STATS.artists },
+    { label: "Temporal Range", value: PROJECT_STATS.temporalRange },
+    { label: "Unique Keywords", value: PROJECT_STATS.uniqueKeywords },
+    { label: "Keywords per Work", value: PROJECT_STATS.keywordsPerWork },
+    { label: "Total Assignments", value: PROJECT_STATS.totalAssignments },
+    { label: "Analytical Axes", value: PROJECT_STATS.analyticalAxes },
   ];
 
   return (
@@ -33,12 +35,12 @@ const DatasetStats = () => {
           </table>
         </div>
         <a
-          href="https://github.com/joonhyungbae/BioArtlas"
+          href={SITE_LINKS.dataFolder}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1 font-sans text-sm academic-link mt-4"
         >
-          Access full dataset on GitHub
+          Browse released dataset and metadata
           <span aria-hidden="true">→</span>
         </a>
       </div>

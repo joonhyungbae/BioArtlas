@@ -1,21 +1,22 @@
 import { FileText, Database, ExternalLink, BookOpen, Code, NotebookPen } from "lucide-react";
+import { SITE_LINKS } from "@/lib/siteConfig";
 
 const ActionButtons = () => {
   const buttons = [
-    { label: "Paper", icon: FileText, href: "https://drive.google.com/file/d/1cOFNX9_fSElhr82nEqz4eceoduLoBPeF/view?usp=drive_link" },
-    { label: "arXiv", icon: BookOpen, href: "https://arxiv.org/abs/2511.19162" },
-    { label: "Dataset", icon: Database, href: "https://github.com/joonhyungbae/BioArtlas" },
-    { label: "Interactive Atlas", icon: ExternalLink, href: "https://bioartlas.com", emphasis: true },
+    { label: "Paper", icon: FileText, href: SITE_LINKS.paper },
+    { label: "arXiv", icon: BookOpen, href: SITE_LINKS.arxiv },
+    { label: "Code", icon: Code, href: SITE_LINKS.code },
+    { label: "Dataset", icon: Database, href: SITE_LINKS.dataset },
+    { label: "Interactive Atlas", icon: ExternalLink, href: SITE_LINKS.interactiveAtlas, emphasis: true },
   ];
 
   const comingSoonButtons = [
-    { label: "Code", icon: Code },
     { label: "Tutorial", icon: NotebookPen },
   ];
 
   return (
     <div className="mt-8 sm:mt-10 max-w-3xl mx-auto space-y-3">
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-5 gap-2 sm:gap-3">
         {buttons.map((button) => (
           <a
             key={button.label}
@@ -37,7 +38,6 @@ const ActionButtons = () => {
         ))}
       </div>
       
-      {/* Coming Soon Buttons */}
       <div className="flex justify-center gap-2 sm:gap-3">
         {comingSoonButtons.map((button) => (
           <div

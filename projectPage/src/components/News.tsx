@@ -3,11 +3,10 @@ import { Database, Users, Presentation, Code, NotebookPen } from "lucide-react";
 const News = () => {
   const newsItems = [
     {
-      date: "Coming Soon",
+      date: "May 3, 2026",
       icon: Code,
       title: "Code Release",
-      description: "Full source code for the clustering pipeline and analysis will be released.",
-      upcoming: true,
+      description: "Released the maintained reproduction pipeline, project page source, and public dataset repository.",
     },
     {
       date: "Coming Soon",

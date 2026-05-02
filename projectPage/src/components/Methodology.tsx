@@ -5,7 +5,7 @@ const Methodology = () => {
       title: "Data Collection & Annotation",
       details: [
         "81 works from major bioart institutions",
-        "770 unique keywords across 13 axes",
+        "768 unique keywords across 13 axes",
         "Domain-informed codebook construction",
       ],
     },

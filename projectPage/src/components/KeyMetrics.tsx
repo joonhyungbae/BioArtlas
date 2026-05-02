@@ -1,3 +1,5 @@
+import { PROJECT_STATS } from "@/lib/siteConfig";
+
 interface MetricCardProps {
   metric: string;
   label: string;
@@ -24,10 +26,14 @@ const MetricCard = ({ metric, label, description }: MetricCardProps) => (
 
 const KeyMetrics = () => {
   const metrics = [
-    { metric: "81", label: "Bioart Works", description: "33 artists and collectives, 1976–2022" },
-    { metric: "13", label: "Analytical Dimensions", description: "From materiality to power dynamics" },
-    { metric: "0.664", label: "Silhouette Coefficient", description: "±0.008, 800+ configurations evaluated" },
-    { metric: "0.81", label: "Trust. / Continuity", description: "Neighborhood preservation metrics" },
+    {
+      metric: PROJECT_STATS.works,
+      label: "Bioart Works",
+      description: `${PROJECT_STATS.artists} artists and collectives, ${PROJECT_STATS.temporalRange}`,
+    },
+    { metric: PROJECT_STATS.analyticalAxes, label: "Analytical Dimensions", description: "From materiality to power dynamics" },
+    { metric: PROJECT_STATS.silhouette, label: "Silhouette Coefficient", description: "±0.008, 800+ configurations evaluated" },
+    { metric: PROJECT_STATS.neighborhood, label: "Trust. / Continuity", description: "Neighborhood preservation metrics" },
   ];
 
   return (
